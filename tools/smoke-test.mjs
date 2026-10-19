@@ -62,7 +62,7 @@ await page.click('text=להתחיל'); await page.waitForTimeout(500);
 for (let q = 0; q < 10; q++) {
   await page.locator('.choice').first().click(); await page.waitForTimeout(200);
   if (q === 0) await shot('quiz-mc');
-  const nx = page.locator('button:has-text("הבא"), button:has-text("לסיכום")');
+  const nx = page.locator('button.btn:has-text("הבא"), button.btn:has-text("לסיכום")');
   if (await nx.isVisible()) await nx.click(); else await page.waitForTimeout(2100);
   await page.waitForTimeout(250);
 }
