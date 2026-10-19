@@ -20,7 +20,7 @@ l'homme|m|n|גבר / אדם|A1|
 le garçon|m|n|ילד / בחור|A1|
 l'ami, l'amie|a|n|חבר / חברה|A1|
 le copain, la copine|a|n|חבר / חברה (בדיבור)|A1|
-la personne|f|n|אדם / אישיות (גם לגבר)|A1|
+la personne|f|n|אדם / בן אדם (גם לגבר)|A1|
 les gens|m|n|אנשים|A1|
 le nom|m|n|שם / שם משפחה|A1|
 le prénom|m|n|שם פרטי|A1|

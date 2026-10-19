@@ -6,7 +6,7 @@ import { playWord } from './audio.js';
 import { describe } from './select.js';
 
 export function playBtn(w, lang, label) {
-  const b = h('button.play' + (lang === 'he' ? '.he' : ''), { type: 'button', 'aria-label': lang === 'he' ? 'השמעה בעברית' : 'השמעה בצרפתית', title: lang === 'he' ? 'עברית' : 'Français' }, label || (lang === 'he' ? 'עב' : 'FR'));
+  const b = h('button.play' + (lang === 'he' ? '.he' : ''), { type: 'button', 'aria-label': (label || (lang === 'he' ? 'עב' : 'FR')) + (lang === 'he' ? ' – השמעה בעברית' : ' – השמעה בצרפתית'), title: lang === 'he' ? 'עברית' : 'Français' }, label || (lang === 'he' ? 'עב' : 'FR'));
   b.addEventListener('click', e => { e.stopPropagation(); st.seen(w.n); playWord(w, lang, { btn: b }); });
   return b;
 }
@@ -18,7 +18,7 @@ export function emo(w, cls = '') {
 export function statusChip(n) {
   const s = st.status(n);
   return h('span.chip', { style: { '--c': s === 'mastered' ? 'var(--ok)' : s === 'learning' ? 'var(--warn-ink)' : 'var(--muted)' } },
-    h('span.status-dot.st-' + s), { new: 'חדשה', learning: 'בלמידה', mastered: 'שלטת' }[s]);
+    h('span.status-dot.st-' + s), { new: 'חדשה', learning: 'בלמידה', mastered: 'בשליטה' }[s]);
 }
 export function markButtons(w, onChange) {
   const known = h('button.mark', { type: 'button', title: 'אני יודעת את המילה', 'aria-label': 'סמני כידועה', 'aria-pressed': String(st.isKnown(w.n)) }, '✅');

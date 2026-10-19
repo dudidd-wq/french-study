@@ -1,5 +1,5 @@
 Jean de La Fontaine|m|n|ז'אן דה לה פונטן (1621–1695, מחבר המשלים)|lf|
-le fabuliste|a|n|ממשל משלים (כותב משלים)|lf|
+le fabuliste|a|n|כותב משלים / כותבת משלים|lf|
 la fable|f|n|משל|lf|
 le lion|m|n|אריה|lf|« Le Roi des animaux »
 le rat|m|n|עכברוש|lf|

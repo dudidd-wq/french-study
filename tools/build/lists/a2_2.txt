@@ -47,7 +47,7 @@ le siècle|m|n|מאה (100 שנה)|A2|
 le début|m|n|התחלה|A2|
 la fin|f|n|סוף|A2|
 le milieu|m|n|אמצע / סביבה|A2|
-la partie|f|n|חלק / משחק (משחקון)|A2|
+la partie|f|n|חלק / סיבוב במשחק|A2|
 le morceau|m|n|חתיכה|A2|
 la moitié|f|n|חצי|A2|
 le quart|m|n|רבע|A2|
@@ -104,7 +104,7 @@ le papillon|m|n|פרפר|A2|
 l'abeille|f|n|דבורה|A2|
 la mouche|f|n|זבוב|A2|
 la fourmi|f|n|נמלה|A2|
-la cigale|f|n|צרצר (ציקדה)|A2|
+la cigale|f|n|ציקדה (במשל: הצרצר)|A2|
 le corbeau|m|n|עורב|A2|
 la grenouille|f|n|צפרדע|A2|
 la plante|f|n|צמח|A2|

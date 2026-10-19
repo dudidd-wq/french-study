@@ -55,7 +55,7 @@ export function confetti() {
 
 // Parts of speech
 const POS_HE = { n: 'שם עצם', v: 'פועל', adj: 'שם תואר', adv: 'תואר הפועל', prep: 'מילת יחס', pron: 'כינוי', conj: 'מילת חיבור',
-  det: 'מְיַדֵּעַ', num: 'מספר', int: 'מילת קריאה', phr: 'ביטוי' };
+  det: 'מילה מגדירה', num: 'מספר', int: 'מילת קריאה', phr: 'ביטוי' };
 export function posTokens(pos) { return (pos || '').split(',').map(s => s.trim()).filter(Boolean); }
 export function posHe(pos) { const t = posTokens(pos); return t.length ? t.map(x => POS_HE[x] || x).join(' / ') : 'ביטוי'; }
 /** short French-grammar meta line: gender (nouns) · CEFR level · bagrut badge */

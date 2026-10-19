@@ -53,7 +53,7 @@ la répétition|f|n|חזרה|gr|
 l'ironie|f|n|אירוניה|gr|
 l'allégorie|f|n|אלגוריה|gr|Rhinocéros = allégorie du totalitarisme
 le champ lexical|m|n|שדה סמנטי (קבוצת מילים מאותו תחום)|gr|le champ lexical du secret
-le vers|m|n|שורה בשיר (בית שיר)|gr|
+le vers|m|n|שורה בשיר (טור)|gr|
 la strophe|f|n|בית (בשיר)|gr|
 la rime|f|n|חריזה / חרוז|gr|
 l'alexandrin|m|n|אלכסנדרין (שורה בת 12 הברות)|gr|

@@ -4,6 +4,7 @@
 // - any alternative of "ami, amie" / "ce, cette, ces" / "a / b" is accepted
 // - missing or wrong accents are accepted with a note ('accent')
 // - one typo in a long word ('typo'), unless the typed text is another word from the list
+// - a DIFFERENT French word that differs only by an accent (ou/où, a/à, la/là, sur/sûr…) is wrong, not an "accent" slip
 const ARTS = /^(le|la|les|l'|un|une|des)\s+/;
 
 export function norm(s) {
@@ -14,6 +15,9 @@ export function norm(s) {
     .replace(/-/g, ' ').replace(/'\s*/g, "' ")
     .replace(/\s+/g, ' ').trim();
 }
+// real French words that are accent-only twins of other words (not all are list entries)
+// (small grammar words only: for nouns such as "foret"/"forêt" a missing accent is still treated as an accent slip)
+const ACCENT_TWINS = new Set(['a', 'la', 'ou', 'sur', 'du', 'des']);
 export const deacc = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 const stripArt = s => s.replace(ARTS, '');
 
@@ -49,7 +53,12 @@ export function check(input, fr, opts = {}) {
   const hadArt = bare !== u;
   if (hadArt && vs.has(bare)) return 'article';
   const dv = new Set([...vs].map(deacc));
-  if (dv.has(deacc(u)) || dv.has(deacc(bare))) return 'accent';
+  // typed exactly another word (with its own accents), e.g. "ou" for "où": that is a different word
+  const otherWord = x => (opts.taken && opts.taken.has(x) && !vs.has(x)) || (ACCENT_TWINS.has(x) && !vs.has(x));
+  if (otherWord(u)) return false;
+  if (dv.has(deacc(u))) return 'accent';
+  if (otherWord(bare)) return false;
+  if (dv.has(deacc(bare))) return 'accent';
   const takenD = opts.taken ? new Set([...opts.taken].map(deacc)) : null;
   if (takenD && (takenD.has(deacc(u)) || takenD.has(deacc(bare)))) return false;
   for (const c of [deacc(u), deacc(bare)]) for (const v of dv) {

@@ -30,7 +30,7 @@ la valise|f|n|מזוודה|A2|
 le passeport|m|n|דרכון|A2|
 la réservation|f|n|הזמנה (מקום)|A2|
 le séjour|m|n|שהייה / ביקור|A2|
-la campagne|f|n|כפר / אזור כפרי / קמפיין|A2|
+la campagne|f|n|אזור כפרי / קמפיין|A2|
 la forêt|f|n|יער|A2|
 la rivière|f|n|נהר (קטן)|A2|
 le fleuve|m|n|נהר גדול|A2|

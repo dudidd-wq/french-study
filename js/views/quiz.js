@@ -56,14 +56,19 @@ export function overlaps(w, x) {
   if (frKey(x.fr) === frKey(w.fr) || x.he.trim() === w.he.trim()) return true;
   const a = new Set(heSenses(w.he)); return heSenses(x.he).some(t => a.has(t));
 }
-function distractors(w, field, k = 3) {
+// "near-duplicate" French forms: same word with/without article, reflexive se/s' or a trailing de/à,
+// or one is the start of the other ("la carte" / "la carte bancaire", "pendant" / "pendant que")
+const frBase = fr => String(fr).toLowerCase().replace(/[\u2019]/g, "'").split(/\s*[,/]\s*/)[0]
+  .replace(/^(le|la|les|un|une)\s+|^l'/, '').replace(/^(se\s+|s')/, '').replace(/\s+(de|d'|à)$/, '').trim();
+export function nearDup(a, b) { const x = frBase(a.fr), y = frBase(b.fr); return x === y || x.startsWith(y + ' ') || y.startsWith(x + ' '); }
+export function distractors(w, field, k = 3) {
   const cat = posCat(w.pos); const val = x => x[field];
   const bad = new Set([val(w).trim()]);
-  const ok = x => x.n !== w.n && !bad.has(val(x).trim()) && !overlaps(w, x);
+  const ok = x => x.n !== w.n && !bad.has(val(x).trim()) && !overlaps(w, x) && !nearDup(w, x);
   let pool = DB.words.filter(x => ok(x) && posCat(x.pos) === cat && Math.abs(x.p - w.p) <= 2);
   if (pool.length < 12) pool = DB.words.filter(x => ok(x) && posCat(x.pos) === cat);
   const out = [];
-  for (const x of shuffle(pool)) { if (out.length >= k) break; if (!bad.has(val(x).trim()) && !out.some(y => overlaps(x, y))) { bad.add(val(x).trim()); out.push(x); } }
+  for (const x of shuffle(pool)) { if (out.length >= k) break; if (!bad.has(val(x).trim()) && !out.some(y => overlaps(x, y) || nearDup(x, y))) { bad.add(val(x).trim()); out.push(x); } }
   return out;
 }
 let TAKEN = null;   // normalized variants of every list entry (built once)
@@ -171,7 +176,7 @@ function run(root, cfg) {
     const byType = {}; results.forEach(r => { const b = byType[r.type] || (byType[r.type] = [0, 0]); b[1]++; if (r.ok) b[0]++; });
     put(root, 
       h('h1', 'סיכום הבחינה'),
-      h('div.card.center', ring, h('h2', { style: { margin: '4px 0' } }, msg), h('p.muted', `${ok} נכונות מתוך ${tot} · ${Math.floor(secs / 60)}:${String(secs % 60).padStart(2, '0')} דקות`),
+      h('div.card.center', ring, h('h2', { style: { margin: '4px 0' } }, msg), h('p.muted', `${ok === 1 ? 'תשובה נכונה אחת' : ok + ' תשובות נכונות'} מתוך ${tot} · ${Math.floor(secs / 60)}:${String(secs % 60).padStart(2, '0')} דקות`),
         h('div.row', { style: { justifyContent: 'center' } }, Object.entries(byType).map(([t, [a, b]]) => h('span.pill', `${TYPES[t][0]}: ${a}/${b}`)))),
       wrong.length ? h('div.card', { style: { marginTop: '12px' } }, h('h2.h3', `טעויות (${wrong.length}) – נוספו לחזרות`),
         h('ul.list-plain', wrong.map(r => h('li', playBtn(r.w, 'fr'), h('div.grow', h('b.fr', r.w.fr), h('div', r.w.he), r.given ? h('div.small', { style: { color: 'var(--bad)' } }, 'ענית: ', h('span', { dir: 'auto' }, r.given)) : null))))) : null,

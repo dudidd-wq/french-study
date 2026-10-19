@@ -54,6 +54,21 @@ export async function playWord(w, lang, opts = {}) {
   if (activeBtn === btn) setActive(null);
   return ok;
 }
+/** Play a whole sentence / dialogue (recorded clips it.au, text it.say; speechSynthesis fallback per line). */
+export async function playSentence(it, opts = {}) {
+  const urls = it.au || [], texts = it.say || []; const btn = opts.btn; setActive(btn);
+  const rate = opts.rate ?? getSettings().rate; let ok = false;
+  for (let k = 0; k < Math.max(urls.length, texts.length); k++) {
+    if (k) { const mine = token; await new Promise(r => setTimeout(r, 450)); if (token !== mine) return false; }
+    const p = urls[k] ? playUrl(urls[k], { rate }) : Promise.resolve(false); const mine = token;
+    ok = await p;
+    if (ok === 'blocked') { setActive(null); return 'blocked'; }
+    if (token !== mine) return false;                      // cancelled by a newer play / stop
+    if (!ok && texts[k]) ok = await speak(texts[k], 'fr', rate);
+  }
+  if (activeBtn === btn) setActive(null);
+  return ok;
+}
 function setActive(btn) { if (activeBtn) activeBtn.classList.remove('playing'); activeBtn = btn || null; if (btn) btn.classList.add('playing'); }
 
 export function stop() { token++; const a = player(); a.onended = a.onerror = null; try { a.pause(); } catch {} if ('speechSynthesis' in window) speechSynthesis.cancel(); setActive(null); }

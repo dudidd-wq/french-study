@@ -1,17 +1,17 @@
 le Petit Prince|m|n|הנסיך הקטן|pp|Antoine de Saint-Exupéry, 1943
-la rose|f|n|ורד|pp|« la rose et le Petit Prince »
+la rose|f|n|ורד|pp|la fleur du petit prince
 la fleur|f|n|פרח|pp|
-le pétale|m|n|עלה כותרת (של פרח)|pp|« une seule rangée de pétales »
-la rangée|f|n|שורה (טור)|pp|
+le pétale|m|n|עלה כותרת (של פרח)|pp|« ornées d'un seul rang de pétales »
+le rang|m|n|שורה (טור)|pp|
 tenir de la place|n|phr|לתפוס מקום|pp|« qui ne tenaient point de place »
 déranger|n|v|להפריע|pp|« elles ne dérangeaient personne »
-s'éteindre|n|v|לכבות / לדעוך|pp|« elles s'éteignaient le soir »
+s'éteindre|n|v|להיכבות / לדעוך|pp|« elles s'éteignaient le soir »
 la graine|f|n|זרע|pp|« une graine apportée d'on ne sait où »
 germer|n|v|לנבוט|pp|« elle avait germé un jour »
 la pousse|f|n|נבט / ניצן|pp|
 la brindille|f|n|זרד (ענף דק)|pp|« cette brindille »
 surveiller|n|v|להשגיח / לפקח|pp|« le petit prince avait surveillé de très près »
-l'espèce|f|n|מין (סוג)|pp|« une nouvelle espèce de baobab »
+le genre|m|n|מין (סוג)|pp|« un nouveau genre de baobab »
 le baobab|m|n|באובב (עץ ענק)|pp|
 l'arbuste|m|n|שיח|pp|« l'arbuste cessa vite de croître »
 croître|n|v|לגדול / לצמוח (ספרותי)|pp|
@@ -26,11 +26,11 @@ fripé, fripée|n|adj|מקומט|pp|« sortir toute fripée comme les coquelicot
 le coquelicot|m|n|פרג|pp|
 le rayonnement|m|n|זוהר / קרינה|pp|« dans le plein rayonnement de sa beauté »
 la beauté|f|n|יופי|pp|
-coquet, coquette|n|adj|גנדרנית / מתגנדרת|pp|« Oh! oui. Elle était coquette! »
+coquet, coquette|n|adj|גנדרנית / מתגנדרת|pp|« Eh ! oui. Elle était très coquette ! »
 la toilette|f|n|התגנדרות / לבוש / שירותים|pp|« sa toilette mystérieuse »
 le lever du soleil|m|n|זריחה|pp|« un matin, justement à l'heure du lever du soleil »
 se montrer|n|v|להראות את עצמו / להופיע|pp|
-bâiller|n|v|לפהק|pp|« elle dit en bâillant »
+bâiller|n|v|לפהק|pp|« dit en bâillant »
 décoiffé, décoiffée|n|adj|פרוע שיער / לא מסורק|pp|« je suis encore toute décoiffée »
 contenir|n|v|להכיל / לרסן|pp|« ne put contenir son admiration »
 l'admiration|f|n|הערצה|pp|
@@ -40,7 +40,7 @@ confus, confuse|n|adj|נבוך / מבולבל|pp|« tout confus »
 l'arrosoir|m|n|מזלף / משפך השקיה|pp|« ayant été chercher un arrosoir d'eau fraîche »
 frais, fraîche|n|adj|טרי / קריר|pp|
 servir|n|v|להגיש / לשרת|pp|« il avait servi la fleur »
-tourmenter|n|v|לייסר / להציק|pp|« elle l'avait bientôt tourmenté »
+tourmenter|n|v|לייסר / להציק|pp|« Ainsi l'avait-elle bien vite tourmenté »
 la vanité|f|n|יוהרה / גאוותנות|pp|« par sa vanité un peu ombrageuse »
 ombrageux, ombrageuse|n|adj|רגזן / חשדן ונעלב בקלות|pp|
 l'épine|f|n|קוץ|pp|« ses quatre épines »
@@ -54,7 +54,7 @@ le globe|m|n|פעמון זכוכית / כדור|pp|« vous me mettrez sous globe
 mal installé, mal installée|n|adj|מסודר לא טוב (לא נוח)|pp|
 interrompre|n|v|לקטוע|pp|« Elle s'était interrompue »
 tousser|n|v|להשתעל|pp|« elle avait toussé deux ou trois fois »
-mettre dans son tort|n|phr|להעמיד מישהו באשמה|pp|« pour le mettre dans son tort »
+mettre dans son tort|n|phr|לגרום למישהו להיראות אשם|pp|« pour mettre le petit prince dans son tort »
 le remords|m|n|חרטה / ייסורי מצפון|pp|« pour lui infliger quand même des remords »
 naïf, naïve|n|adj|תמים|pp|« un mensonge aussi naïf »
 humilié, humiliée|n|adj|מושפל|pp|« humiliée de s'être laissé surprendre »
@@ -64,7 +64,7 @@ prendre au sérieux|n|phr|להתייחס ברצינות|pp|« Il avait pris au s
 sans importance|n|phr|חסר חשיבות|pp|
 malheureux, malheureuse|n|adj|אומלל / לא מאושר|pp|« et était devenu très malheureux »
 se confier|n|v|להתוודות / לספר בסוד|pp|« me confia-t-il un jour »
-juger|n|v|לשפוט|pp|« Il fallait la juger sur les actes et non sur les mots »
+juger|n|v|לשפוט|pp|« J'aurais dû la juger sur les actes et non sur les mots »
 l'acte|m|n|מעשה / מערכה (במחזה)|pp|
 embaumer|n|v|למלא בריח נעים / לבשם|pp|« Elle m'embaumait et m'éclairait »
 éclairer|n|v|להאיר|pp|

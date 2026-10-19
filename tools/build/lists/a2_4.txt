@@ -109,7 +109,7 @@ avoir besoin de|n|phr|להזדקק ל...|A2|
 avoir envie de|n|phr|להתחשק ל... / לרצות|A2|
 avoir raison|n|phr|לצדוק|A2|
 avoir tort|n|phr|לטעות (לא לצדוק)|A2|
-avoir de la chance|n|phr|שיש מזל|A2|
+avoir de la chance|n|phr|להיות בר מזל|A2|
 faire attention|n|phr|לשים לב / להיזהר|A2|
 faire la queue|n|phr|לעמוד בתור|A2|
 faire les courses|n|phr|לעשות קניות (מצרכים)|A2|

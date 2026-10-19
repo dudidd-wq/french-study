@@ -4,7 +4,7 @@
 import { h, shuffle, confetti, ringSVG, toast, put } from '../util.js';
 import { DB, word } from '../data.js';
 import * as st from '../store.js';
-import { playWord, stop, sfx } from '../audio.js';
+import { playSentence, stop, sfx } from '../audio.js';
 import { onLeave, refreshTop } from '../nav.js';
 import { playBtn, emptyState, emo } from '../ui.js';
 
@@ -70,13 +70,13 @@ function setup(root, c0) {
   };
   put(root,
     h('h1', '💬 משפטי שיחה'),
-    h('p.muted', 'משפטים קצרים מהחיים ומהטקסטים לבגרות. כל תשובה מעדכנת את מעקב הלמידה של המילה.'),
+    h('p.muted', 'משפטים קצרים מהחיים ומהטקסטים לבגרות. אחרי כל תשובה שומעים את המשפט המלא בצרפתית (Jeanne). כל תשובה מעדכנת את מעקב הלמידה של המילה.'),
     h('div.card', h('div.field', h('span.lbl', 'סוג התרגול'), kinds)),
-    h('div.card', { style: { marginTop: '12px' } }, h('div.field', h('span.lbl', 'מאיזה משפטים?'), srcs), partBox,
+    h('div.card', { style: { marginTop: '12px' } }, h('div.field', h('span.lbl', 'מאילו משפטים?'), srcs), partBox,
       h('div.field', h('label', 'כמה משפטים?'), cnt), info),
     h('div', { style: { height: '14px' } }),
     h('button.btn.block.lg', { type: 'button', onclick: start }, '🚀 להתחיל'),
-    h('p.small.muted.center', h('a', { href: '#/quiz' }, '← חזרה לבחינת מילים')));
+    h('p.small.muted.center', h('a.btn.ghost', { href: '#/quiz' }, '← חזרה לבחינת מילים')));
   sync();
 }
 
@@ -98,6 +98,11 @@ function run(root, cfg) {
   onLeave(() => { document.removeEventListener('keydown', onKey); stop(); });
   const goNext = () => { i++; i < items.length ? ask() : summary(); };
 
+  function sayBtn(it) {
+    const b = h('button.play.say-btn', { type: 'button', 'aria-label': '🔊 – השמעת המשפט המלא', title: 'המשפט המלא' }, '🔊');
+    b.addEventListener('click', e => { e.stopPropagation(); playSentence(it, { btn: b }); });
+    return b;
+  }
   function targetRow(it) {
     return it.t.map(n => word(n)).filter(Boolean).map(w => h('div.s-target',
       h('div.grow', h('b.fr', w.fr), ' = ', h('span', w.he), emo(w, '.emo-sm')), playBtn(w, 'fr'), playBtn(w, 'he')));
@@ -122,10 +127,10 @@ function run(root, cfg) {
       put(fb, h('div.feedback.' + (ok ? 'ok' : 'bad'), { role: 'status' },
         h('span', ok ? ['מצוין! 🎉', 'נכון! ✨', 'יפה מאוד! 💪', 'בדיוק! 👏'][Math.floor(Math.random() * 4)] : 'כמעט! התשובה הנכונה:'),
         full ? h('span.fb-word.fr', { dir: 'ltr' }, full) : null),
-        h('div.card.s-after', h('div.s-he', it.he), ...targetRow(it)));
+        h('div.card.s-after', h('div.row', h('div.s-he.grow', it.he), sayBtn(it)), ...targetRow(it)));
       nextBtn.hidden = false; nextBtn.focus({ preventScroll: true });
       requestAnimationFrame(() => nextBtn.scrollIntoView({ block: 'nearest', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }));
-      const w = word(it.t[0]); if (w) setTimeout(() => playWord(w, 'fr'), 300);
+      setTimeout(() => playSentence(it, { btn: fb.querySelector('.say-btn') }), 300);
     };
     const choiceBody = (slot) => {
       const opts = shuffle(it.opts);
@@ -141,11 +146,11 @@ function run(root, cfg) {
       return h('div.choices', btns);
     };
     if (it.type === 'fill') {
-      const slot = h('span.s-slot', { 'aria-label': 'מילה חסרה' }, '\u00a0');
+      const slot = h('span.s-slot', { role: 'group', 'aria-label': 'מילה חסרה' }, '\u00a0');
       put(prompt, h('div.q-type', '✏️ השלימי את המילה החסרה'), h('div.s-sent.fr', { dir: 'ltr' }, withBlank(it.s, slot)), hintBtn(it));
       body = choiceBody(slot);
     } else if (it.type === 'dialog') {
-      const slot = h('span.s-slot', { 'aria-label': 'מילה חסרה' }, '\u00a0');
+      const slot = h('span.s-slot', { role: 'group', 'aria-label': 'מילה חסרה' }, '\u00a0');
       const bubble = (ln, k) => h('div.s-bub.' + (k ? 'b' : 'a'), h('span.s-av', { 'aria-hidden': 'true' }, k ? '🧑' : '👧'),
         h('div.s-txt.fr', { dir: 'ltr' }, ln.fr.includes('___') ? withBlank(ln.fr, slot) : ln.fr));
       put(prompt, h('div.q-type', '💬 השלימי את השיחה'), h('div.s-chat', it.lines.map(bubble)), hintBtn(it));
@@ -166,8 +171,8 @@ function run(root, cfg) {
     // tiles: tap to move between bank and line; or drag (pointer events) to place/reorder
     const tiles = shuffle(it.tiles.map((t, k) => ({ t, k })));
     if (tiles.map(x => x.t).join(' ') === it.tiles.join(' ') && tiles.length > 1) tiles.push(tiles.shift());   // never start solved
-    const line = h('div.s-line.fr', { dir: 'ltr', 'aria-label': 'המשפט שלך' });
-    const bank = h('div.s-bank.fr', { dir: 'ltr', 'aria-label': 'מילים לבחירה' });
+    const line = h('div.s-line.fr', { dir: 'ltr', role: 'group', 'aria-label': 'המשפט שלך' });
+    const bank = h('div.s-bank.fr', { dir: 'ltr', role: 'group', 'aria-label': 'מילים לבחירה' });
     const checkBtn = h('button.btn.lg', { type: 'button', disabled: true }, 'בדיקה');
     const resetBtn = h('button.btn.sm.ghost', { type: 'button' }, '↺ להתחיל מחדש');
     const els = tiles.map(x => { const b = h('button.s-tile', { type: 'button', 'data-k': x.k }, x.t); b._t = x.t; return b; });
@@ -224,7 +229,7 @@ function run(root, cfg) {
       h('div.card.center', ring, h('h2', { style: { margin: '4px 0' } }, pct === 100 ? 'מושלם! 🏆' : pct >= 70 ? 'יפה מאוד! 🌟' : pct >= 50 ? 'בדרך הנכונה 🙂' : 'כדאי לנסות שוב 💜'),
         h('p.muted', `${ok} נכונים מתוך ${tot}`)),
       wrong.length ? h('div.card', { style: { marginTop: '12px' } }, h('h2.h3', `טעויות (${wrong.length}) – המילים נוספו לחזרות`),
-        h('ul.list-plain', wrong.map(r => { const w = word(r.it.t[0]); return h('li', w ? playBtn(w, 'fr') : null,
+        h('ul.list-plain', wrong.map(r => { return h('li', sayBtn(r.it),
           h('div.grow', h('div.fr', { dir: 'ltr' }, sent(r.it)), h('div.small', r.it.he),
             r.given ? h('div.small', { style: { color: 'var(--bad)' } }, 'ענית: ', h('span.fr', { dir: 'ltr' }, r.given)) : null)); }))) : null,
       h('div.row', { style: { marginTop: '14px' } },

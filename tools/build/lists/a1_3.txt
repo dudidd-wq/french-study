@@ -59,7 +59,7 @@ la fois|f|n|פעם|A1|une fois, deux fois
 le monde|m|n|עולם / אנשים|A1|tout le monde = כולם
 la vie|f|n|חיים|A1|
 être|n|v|להיות|A1|
-avoir|n|v|שיש ל... / להחזיק|A1|j'ai = יש לי
+avoir|n|v|יש ל... / להחזיק|A1|j'ai = יש לי
 aller|n|v|ללכת / לנסוע|A1|
 faire|n|v|לעשות|A1|
 dire|n|v|לומר / להגיד|A1|

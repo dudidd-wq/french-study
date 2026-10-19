@@ -1,5 +1,5 @@
 // Service worker: precache the app shell, cache word audio on demand (with Range support for Safari).
-const VERSION = 'v1.1.0';
+const VERSION = 'v1.2.0';
 const SHELL = 'french-shell-' + VERSION;
 const AUDIO = 'french-audio-v1';          // kept across versions (audio files never change names)
 const ASSETS = [
@@ -36,8 +36,8 @@ self.addEventListener('fetch', e => {
   const url = new URL(req.url); if (url.origin !== location.origin) return;
   const path = url.pathname;
 
-  // Word audio: cache-first, store full (non-range) response on first play
-  if (/\/audio\/(fr|he)\/\d+\.mp3$/.test(path)) {
+  // Word + sentence audio: cache-first, store full (non-range) response on first play
+  if (/\/audio\/((fr|he)\/\d+|sent\/[0-9a-f]+)\.mp3$/.test(path)) {
     e.respondWith((async () => {
       const cache = await caches.open(AUDIO);
       const key = new Request(url.href);

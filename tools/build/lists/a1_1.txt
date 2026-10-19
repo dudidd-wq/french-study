@@ -8,7 +8,7 @@ s'il vous plaît|n|phr|בבקשה (בנימוס / לרבים)|A1|
 oui|n|adv|כן|A1|
 non|n|adv|לא|A1|
 pardon|n|int|סליחה|A1|
-excusez-moi|n|phr|סלח לי / סליחה (בנימוס)|A1|
+excusez-moi|n|phr|סלחו לי / סליחה (בנימוס)|A1|
 de rien|n|phr|על לא דבר / אין בעד מה|A1|
 ça va ?|n|phr|מה נשמע? / הכול בסדר?|A1|
 bienvenue|n|int|ברוכים הבאים|A1|

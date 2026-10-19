@@ -39,7 +39,7 @@ export function partsView() {
   });
   return h('div',
     h('h1', 'צפייה ושמיעה'),
-    h('p.muted', `${DB.words.length} מילים ב-${DB.parts.length} חלקים (80–100 מילים בכל חלק), מהקל לקשה. אפשר גם לחפש מילה.`),
+    h('p.muted', `${DB.words.length} מילים ב-${DB.parts.length} חלקים (89–97 מילים בכל חלק), מהקל לקשה. אפשר גם לחפש מילה.`),
     search, h('div', { style: { height: '10px' } }), results, grid);
 }
 
@@ -52,18 +52,18 @@ export function partView(m) {
   const summary = h('div.small.muted');
   const draw = () => {
     const c = st.counts(words);
-    summary.textContent = `${c.mastered} שלטת · ${c.learning} בלמידה · ${c.new} חדשות`;
+    summary.textContent = `${c.mastered} בשליטה · ${c.learning} בלמידה · ${c.new} חדשות`;
     const L = words.filter(w => filter === 'all' || (filter === 'hard' ? st.isWeak(w.n) : st.status(w.n) === filter));
     put(list, ...(L.length ? L.map(w => wordRow(w, { hideHe, onChange: () => { summary.textContent = summaryText(); refreshTop(); } })) : [emptyState('✨', 'אין מילים בסינון הזה')]));
   };
-  const summaryText = () => { const c = st.counts(words); return `${c.mastered} שלטת · ${c.learning} בלמידה · ${c.new} חדשות`; };
-  const seg = h('div.seg', [['all', 'הכול'], ['new', 'חדשות'], ['learning', 'בלמידה'], ['mastered', 'שלטת'], ['hard', 'קשות']].map(([k, l]) =>
+  const summaryText = () => { const c = st.counts(words); return `${c.mastered} בשליטה · ${c.learning} בלמידה · ${c.new} חדשות`; };
+  const seg = h('div.seg', [['all', 'הכול'], ['new', 'חדשות'], ['learning', 'בלמידה'], ['mastered', 'בשליטה'], ['hard', 'קשות']].map(([k, l]) =>
     h('button', { type: 'button', class: k === filter ? 'on' : '', onclick: e => { filter = k; [...seg.children].forEach(b => b.classList.toggle('on', b === e.currentTarget)); draw(); } }, l)));
   const hideToggle = h('input', { type: 'checkbox', checked: hideHe });
   hideToggle.onchange = () => { hideHe = hideToggle.checked; st.setSettings({ hideHe }); draw(); };
   const offBtn = h('button.btn.sm.ghost', { type: 'button' }, '⬇️ שמירה לשימוש בלי אינטרנט');
-  offBtn.onclick = () => downloadPart(words, offBtn);
-  checkCached(words).then(n => { if (n && n === words.reduce((s, w) => s + hasAudio(w, 'fr') + hasAudio(w, 'he'), 0)) offBtn.textContent = '✓ החלק זמין גם בלי אינטרנט'; });
+  offBtn.onclick = async () => downloadPart(await partUrls(p, words), offBtn);
+  partUrls(p, words).then(urls => checkCached(urls).then(n => { if (n && n === urls.length) offBtn.textContent = '✓ החלק זמין גם בלי אינטרנט'; }));
   draw();
   return h('div',
     h('div.row', h('div.grow', h('h1', `חלק ${p}`), h('div.muted', `מילים ${P.from}–${P.to} · ${partLabel(P)} · ${P.count} מילים`), summary),
@@ -79,15 +79,21 @@ export function partView(m) {
     list, h('div.center', { style: { marginTop: '14px' } }, offBtn));
 }
 
-async function checkCached(words) {
+/** all audio of a part: FR + HE word clips and the full-sentence clips of the part's conversation sentences */
+async function partUrls(p, words) {
+  const urls = words.flatMap(w => ['fr', 'he'].filter(l => hasAudio(w, l)).map(l => audioUrl(w, l)));
+  try { const j = await (await fetch('data/sentences.json')).json(); for (const it of j.items) if (it.part === p) urls.push(...(it.au || [])); } catch {}
+  return urls;
+}
+async function checkCached(urls) {
   if (!('caches' in window)) return 0;
   try { const c = await caches.open(AUDIO_CACHE); const keys = new Set((await c.keys()).map(r => new URL(r.url).pathname.split('/').slice(-3).join('/')));
-    return words.reduce((s, w) => s + keys.has(audioUrl(w, 'fr')) + keys.has(audioUrl(w, 'he')), 0);
+    return urls.reduce((s, u) => s + keys.has(u), 0);
   } catch { return 0; }
 }
-async function downloadPart(words, btn) {
+async function downloadPart(urls, btn) {
   if (!('caches' in window)) { toast('הדפדפן לא תומך בשמירה'); return; }
-  btn.disabled = true; const urls = words.flatMap(w => ['fr', 'he'].filter(l => hasAudio(w, l)).map(l => audioUrl(w, l)));
+  btn.disabled = true;
   const c = await caches.open(AUDIO_CACHE); let done = 0, fail = 0;
   const q = urls.slice();
   const worker = async () => { while (q.length) { const u = q.shift(); try { if (!(await c.match(u))) { const r = await fetch(u); if (!r.ok) throw 0; await c.put(u, r); } } catch { fail++; } done++; btn.textContent = `שומרת… ${done}/${urls.length}`; } };

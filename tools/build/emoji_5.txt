@@ -1,7 +1,7 @@
 le Petit Prince=🤴
 la rose=🌹
 le pétale=🌸
-la rangée=〰️
+le rang=〰️
 tenir de la place=📦
 déranger=😣
 s'éteindre=🕯️
@@ -9,7 +9,7 @@ germer=🌱
 la pousse=🌱
 la brindille=🌿
 surveiller=👀
-l'espèce=🧬
+le genre=🧬
 le baobab=🌳
 l'arbuste=🌿
 croître=📈
