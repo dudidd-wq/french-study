@@ -18,7 +18,9 @@ def fr_tts_text(s):
     s = re.sub(r'\s*/\s*', ', ', s).replace('(', ' ').replace(')', ' ')
     s = re.sub(r'\s+', ' ', s).strip(' ,;')
     return s
+HE_OVR = {'מסך': 'מָסָךְ'}   # plain form came out unintelligible (STT audit)
 def he_tts_text(s):
+    if s in HE_OVR: return HE_OVR[s]
     s = re.sub(r'\s*\([^)]*[A-Za-z0-9][^)]*\)', '', s)   # drop (Latin / dates) notes
     s = s.replace('…', '').replace('...', '').replace('״', '"').replace('׳', "'")
     s = re.sub(r'\s*/\s*', ' או ', s); s = re.sub(r'\s*\(\s*', ', ', s).replace(')', '')

@@ -1,5 +1,5 @@
 // Service worker: precache the app shell, cache word audio on demand (with Range support for Safari).
-const VERSION = 'v1.2.0';
+const VERSION = 'v1.2.1';
 const SHELL = 'french-shell-' + VERSION;
 const AUDIO = 'french-audio-v1';          // kept across versions (audio files never change names)
 const ASSETS = [

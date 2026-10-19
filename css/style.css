@@ -176,7 +176,7 @@ summary{min-height:48px;display:flex;align-items:center}
 .feedback .play{background:var(--card)}
 .score-ring{width:150px;height:150px;margin:10px auto;position:relative}
 .score-ring .num{position:absolute;inset:0;display:grid;place-items:center;font-size:2.2rem;font-weight:800}
-.score-ring svg{transform:rotate(-90deg)}
+.score-ring svg{transform:rotate(-90deg)} .score-ring circle{fill:none} .score-ring .fg{stroke-linecap:round}
 .list-plain{list-style:none;padding:0;margin:0}
 .list-plain li{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(--line)}
 .list-plain li:last-child{border-bottom:0}
