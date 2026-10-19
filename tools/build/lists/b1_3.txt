@@ -1,0 +1,120 @@
+actuel, actuelle|n|adj|נוכחי / עכשווי|B1|faux ami: לא "אקטואלי" בלבד – בעיקר "נוכחי"
+actuellement|n|adv|כרגע / בימינו|B1|
+agréable|n|adj|נעים|B1|
+désagréable|n|adj|לא נעים|B1|
+ancien, ancienne|n|adj|עתיק / לשעבר|B1|
+attentif, attentive|n|adj|קשוב / זהיר|B1|
+autoritaire|n|adj|סמכותי / שתלטני|B1|
+bavard, bavarde|n|adj|פטפטן|B1|
+blessant, blessante|n|adj|פוגע / מעליב|B1|
+brave|n|adj|אמיץ / טוב לב|B1|braves gens = אנשים טובים
+capable|n|adj|מסוגל|B1|
+certain, certaine|n|adj|בטוח / מסוים|B1|
+clair, claire|n|adj|ברור / בהיר|B1|
+compliqué, compliquée|n|adj|מסובך|B1|
+conscient, consciente|n|adj|מודע|B1|
+courageux, courageuse|n|adj|אמיץ|B1|
+cruel, cruelle|n|adj|אכזר|B1|
+curieux, curieuse|n|adj|סקרן / מוזר|B1|
+dangereux, dangereuse|n|adj|מסוכן|B1|
+déçu, déçue|n|adj|מאוכזב|B1|
+désolé, désolée|n|adj|מצטער|B1|
+efficace|n|adj|יעיל|B1|
+égoïste|n|adj|אנוכי|B1|
+énorme|n|adj|עצום|B1|
+étonné, étonnée|n|adj|מופתע / נדהם|B1|
+étrange|n|adj|מוזר|B1|
+évident, évidente|n|adj|ברור מאליו|B1|
+exceptionnel, exceptionnelle|n|adj|יוצא דופן|B1|
+fâché, fâchée|n|adj|כועס|B1|
+fidèle|n|adj|נאמן|B1|
+fragile|n|adj|שביר / עדין|B1|
+généreux, généreuse|n|adj|נדיב|B1|
+grave|n|adj|חמור / רציני|B1|
+honnête|n|adj|ישר / הגון|B1|
+humain, humaine|n|adj|אנושי|B1|
+humble|n|adj|צנוע|B1|
+inconnu, inconnue|n|adj|לא ידוע / זר|B1|
+indépendant, indépendante|n|adj|עצמאי|B1|
+injuste|n|adj|לא הוגן|B1|
+juste|n|adj|צודק / הוגן / בדיוק|B1|
+inutile|n|adj|מיותר / חסר תועלת|B1|
+utile|n|adj|מועיל / שימושי|B1|
+jaloux, jalouse|n|adj|קנאי|B1|
+mystérieux, mystérieuse|n|adj|מסתורי|B1|
+naïf, naïve|n|adj|תמים / נאיבי|B1|
+naturel, naturelle|n|adj|טבעי|B1|
+nerveux, nerveuse|n|adj|עצבני / לחוץ|B1|
+normal, normale|n|adj|נורמלי / רגיל|B1|
+orgueilleux, orgueilleuse|n|adj|יהיר / גאוותן|B1|
+parfait, parfaite|n|adj|מושלם|B1|
+patient, patiente|n|adj|סבלני|B1|
+personnel, personnelle|n|adj|אישי|B1|
+poli, polie|n|adj|מנומס|B1|
+précis, précise|n|adj|מדויק|B1|
+privé, privée|n|adj|פרטי|B1|
+profond, profonde|n|adj|עמוק|B1|
+public, publique|n|adj|ציבורי|B1|
+puissant, puissante|n|adj|חזק / רב עוצמה|B1|
+rare|n|adj|נדיר|B1|
+reconnaissant, reconnaissante|n|adj|אסיר תודה|B1|
+responsable|n|adj|אחראי|B1|
+ridicule|n|adj|מגוחך|B1|
+sensible|n|adj|רגיש|B1|faux ami: sensible = רגיש
+simple|n|adj|פשוט|B1|
+sincère|n|adj|כן / אמיתי|B1|
+sombre|n|adj|חשוך / קודר|B1|
+sûr, sûre|n|adj|בטוח|B1|
+surpris, surprise|n|adj|מופתע|B1|
+têtu, têtue|n|adj|עקשן|B1|
+tranquille|n|adj|שקט / רגוע|B1|
+unique|n|adj|יחיד / ייחודי|B1|
+vivant, vivante|n|adj|חי|B1|
+vrai, vraie|n|adj|אמיתי / נכון|B1|
+coquet, coquette|n|adj|גנדרן / מתגנדר|B1|
+vaniteux, vaniteuse|n|adj|יהיר / רברבן|B1|
+absolument|n|adv|בהחלט / לגמרי|B1|
+apparemment|n|adv|כנראה / ככל הנראה|B1|
+au moins|n|adv|לפחות|B1|
+autrefois|n|adv|פעם (בעבר)|B1|
+certainement|n|adv|בוודאי|B1|
+complètement|n|adv|לגמרי|B1|
+d'ailleurs|n|adv|חוץ מזה / אגב|B1|
+de plus|n|adv|יתר על כן|B1|
+en effet|n|adv|ואכן / אכן|B1|
+en fait|n|adv|למעשה|B1|
+en général|n|adv|בדרך כלל|B1|
+en tout cas|n|adv|בכל מקרה|B1|
+environ|n|adv|בערך|B1|
+évidemment|n|adv|כמובן|B1|
+heureusement|n|adv|למרבה המזל|B1|
+malheureusement|n|adv|למרבה הצער|B1|
+lentement|n|adv|לאט|B1|
+doucement|n|adv|בעדינות / בשקט / לאט|B1|
+finalement|n|adv|לבסוף / בסופו של דבר|B1|
+justement|n|adv|בדיוק / דווקא|B1|
+même si|n|conj|אפילו אם|B1|
+néanmoins|n|adv|עם זאת|B1|
+par conséquent|n|adv|כתוצאה מכך|B1|
+plutôt|n|adv|דווקא / יותר נכון / די|B1|
+probablement|n|adv|כנראה / קרוב לוודאי|B1|
+sans doute|n|adv|כנראה / ללא ספק|B1|
+tout à fait|n|adv|בהחלט / לגמרי|B1|
+afin de|n|prep|כדי ל...|B1|
+alors que|n|conj|בעוד ש... / למרות ש...|B1|
+bien que|n|conj|אף על פי ש...|B1|
+car|n|conj|כי (שהרי)|B1|
+dès que|n|conj|מיד כש...|B1|
+pour que|n|conj|כדי ש...|B1|
+puisque|n|conj|מאחר ש...|B1|
+tandis que|n|conj|בעוד ש...|B1|
+à condition que|n|conj|בתנאי ש...|B1|
+avant que|n|conj|לפני ש...|B1|
+malgré|n|prep|למרות|B1|
+parmi|n|prep|בין (מתוך קבוצה)|B1|
+envers|n|prep|כלפי|B1|
+à travers|n|prep|דרך / לרוחב|B1|
+au bout de|n|prep|בסוף / אחרי (זמן)|B1|
+quant à|n|prep|באשר ל...|B1|
+d'une part... d'autre part|n|phr|מצד אחד... מצד שני|B1|
+non seulement... mais aussi|n|phr|לא רק... אלא גם|B1|

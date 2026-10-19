@@ -1,0 +1,50 @@
+Jean de La Fontaine|m|n|ז'אן דה לה פונטן (1621–1695, מחבר המשלים)|lf|
+le fabuliste|a|n|ממשל משלים (כותב משלים)|lf|
+la fable|f|n|משל|lf|
+le lion|m|n|אריה|lf|« Le Roi des animaux »
+le rat|m|n|עכברוש|lf|
+le roi des animaux|m|n|מלך החיות|lf|
+obliger|n|v|לעשות טובה / לעזור (בלשון לה פונטן)|lf|« Il faut, autant qu'on peut, obliger tout le monde »
+autant qu'on peut|n|phr|ככל שאפשר|lf|
+plus petit que soi|n|phr|קטן ממך|lf|« On a souvent besoin d'un plus petit que soi »
+faire foi|n|phr|להוכיח / להעיד על|lf|« De cette vérité deux Fables feront foi »
+abonder|n|v|לשפוע / להיות בשפע|lf|« Tant la chose en preuves abonde »
+la patte|f|n|כף רגל של חיה|lf|« Entre les pattes d'un Lion »
+à l'étourdie|n|adv|בפזיזות / בלי לחשוב|lf|« Un Rat sortit de terre assez à l'étourdie »
+étourdi, étourdie|n|adj|פזיז / מפוזר|lf|
+montrer ce qu'il était|n|phr|להראות את מי שהוא באמת|lf|
+donner la vie|n|phr|לחוס על חייו (לתת לו לחיות)|lf|« et lui donna la vie »
+épargner|n|v|לחוס על / לחסוך|lf|
+le bienfait|m|n|מעשה טוב / חסד|lf|« Ce bienfait ne fut pas perdu »
+avoir affaire à|n|phr|להזדקק ל... / להיות קשור ל...|lf|« Qu'un Lion d'un Rat eût affaire »
+il advint que|n|phr|קרה ש... (ספרותי)|lf|« Cependant il advint »
+au sortir de|n|prep|ביציאה מ...|lf|« au sortir des forêts »
+les rets|m|n|רשת (מלכודת ציד, ספרותי)|lf|« Ce Lion fut pris dans des rets »
+le filet|m|n|רשת|lf|
+le piège|m|n|מלכודת|lf|
+le chasseur|m|n|צייד|lf|
+le rugissement|m|n|שאגה|lf|« Dont ses rugissements ne le purent défaire »
+rugir|n|v|לשאוג|lf|
+défaire|n|v|להתיר / לפרק|lf|
+Sire|m|n|הוד מלכותו (פנייה למלך)|lf|« Sire Rat accourut »
+accourir|n|v|למהר לבוא / לרוץ אל|lf|
+la dent|f|n|שן|lf|« et fit tant par ses dents »
+la maille|f|n|עין (של רשת) / לולאה|lf|« Qu'une maille rongée emporta tout l'ouvrage »
+ronger|n|v|לכרסם|lf|
+l'ouvrage|m|n|מלאכה / יצירה|lf|
+emporter|n|v|לקחת איתו / לסחוף|lf|
+la patience|f|n|סבלנות|lf|« Patience et longueur de temps »
+la longueur de temps|f|n|משך זמן ארוך|lf|« Font plus que force ni que rage »
+la rage|f|n|זעם|lf|
+la force|f|n|כוח|lf|
+la générosité|f|n|נדיבות|lf|
+la reconnaissance|f|n|הכרת תודה / הכרה|lf|
+la clémence|f|n|רחמים / סלחנות|lf|
+l'entraide|f|n|עזרה הדדית|lf|
+la morale|f|n|מוסר השכל|lf|
+la vérité|f|n|אמת|lf|
+la preuve|f|n|הוכחה|lf|
+cependant|n|adv|אולם / עם זאת|lf|
+le Roi Soleil|m|n|לואי ה־14 (מלך השמש)|lf|La Fontaine vit sous Louis XIV
+le classicisme|m|n|הקלאסיציזם (המאה ה־17)|lf|
+le XVIIe siècle|m|n|המאה ה־17|lf|

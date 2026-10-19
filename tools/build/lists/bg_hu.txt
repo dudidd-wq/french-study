@@ -1,0 +1,49 @@
+Victor Hugo|m|n|ויקטור הוגו (1802–1885, משורר וסופר)|hu|« Le mot », Toute la lyre, 1888
+le mot|m|n|מילה|hu|« Le mot »
+la parole|f|n|דיבור / מילה (שנאמרה)|hu|
+prendre garde|n|phr|להיזהר / לשים לב|hu|« Braves gens, prenez garde aux choses que vous dites ! »
+braves gens|m|n|אנשים טובים|hu|
+perdre un mot|n|phr|לפלוט מילה (בלי לחשוב)|hu|« un mot qu'en passant vous perdîtes »
+en passant|n|adv|אגב / בדרך אגב|hu|
+la haine|f|n|שנאה|hu|« TOUT, la haine et le deuil ! »
+le deuil|m|n|אבל|hu|
+objecter|n|v|להתנגד בטענה / להשיב בהתנגדות|hu|« Et ne m'objectez pas »
+parler bas|n|phr|לדבר בשקט (בקול נמוך)|hu|« vous parlez bas »
+le tête-à-tête|m|n|שיחה ביחידות (בארבע עיניים)|hu|
+la pantoufle|f|n|נעל בית|hu|« en pantoufle »
+clos, close|n|adj|סגור (ספרותי)|hu|« Portes closes »
+le témoin|a|n|עד / עדה|hu|« sans un témoin qui souffle »
+souffler|n|v|לנשוף / ללחוש|hu|
+l'ami de cœur|m|n|חבר קרוב (חבר נפש)|hu|
+murmurer|n|v|ללחוש / למלמל|hu|« Vous murmurez tout seul »
+se taire|n|v|לשתוק|hu|« croyant presque vous taire »
+la cave|f|n|מרתף|hu|« Dans le fond d'une cave à trente pieds sous terre »
+sous terre|n|adv|מתחת לאדמה|hu|
+l'individu|m|n|אדם / פרט (יחיד)|hu|« Un mot désagréable à quelque individu »
+le lieu|m|n|מקום|hu|« dans un lieu sourd et sombre »
+sourd, sourde|n|adj|חירש / עמום|hu|
+lâcher|n|v|לשחרר / לפלוט|hu|« Court à peine lâché »
+bondir|n|v|לזנק / לקפץ|hu|« part, bondit, sort de l'ombre »
+sortir de l'ombre|n|phr|לצאת מן הצל|hu|
+le bâton|m|n|מקל|hu|« un bâton à la main »
+le soulier|m|n|נעל (מילה ישנה)|hu|« De bons souliers ferrés »
+ferré, ferrée|n|adj|מסומר / מחוזק בברזל|hu|
+en règle|n|phr|כחוק / מסודר|hu|« un passeport en règle »
+au besoin|n|adv|בעת הצורך|hu|
+l'aile|f|n|כנף|hu|« il prendrait des ailes, comme l'aigle ! »
+l'aigle|m|n|נשר / עיט|hu|
+échapper|n|v|לחמוק / להימלט|hu|« Il vous échappe, il fuit »
+franchir|n|v|לחצות / לעבור (מכשול)|hu|« franchit la place »
+la crue|f|n|גאות (שיטפון של נהר)|hu|« dans la saison des crues »
+le dédale|m|n|מבוך|hu|« un dédale de rues »
+le labyrinthe|m|n|מבוך|hu|
+railleur, railleuse|n|adj|לועג / מתגרה|hu|« et railleur, regardant l'homme en face »
+regarder en face|n|phr|להביט ישר בפנים|hu|
+un tel, une telle|n|pron|פלוני / פלונית|hu|« Je sors de la bouche d'un tel »
+l'ennemi mortel|m|n|אויב בנפש (אויב מר)|hu|« Vous avez un ennemi mortel »
+l'ennemi, l'ennemie|a|n|אויב / אויבת|hu|
+l'avertissement|m|n|אזהרה|hu|
+blessant, blessante|n|adj|פוגע / מעליב|hu|
+le romantisme|m|n|הרומנטיקה (זרם ספרותי, המאה ה־19)|hu|
+l'exil|m|n|גלות|hu|Hugo en exil à Guernesey
+Les Misérables|m|n|עלובי החיים (רומן של הוגו)|hu|

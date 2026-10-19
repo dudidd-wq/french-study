@@ -1,0 +1,122 @@
+accepter|n|v|לקבל (להסכים)|B1|
+refuser|n|v|לסרב|B1|
+admettre|n|v|להודות / לקבל|B1|
+affirmer|n|v|לטעון / לקבוע|B1|
+annoncer|n|v|להודיע / להכריז|B1|
+avouer|n|v|להודות (בדבר)|B1|
+conseiller|n|v|לייעץ|B1|
+convaincre|n|v|לשכנע|B1|
+critiquer|n|v|לבקר (ביקורת)|B1|
+défendre|n|v|להגן / לאסור|B1|
+discuter de|n|v|לדון ב...|B1|
+exprimer|n|v|לבטא|B1|
+justifier|n|v|להצדיק / לנמק|B1|
+mentir|n|v|לשקר|B1|
+prétendre|n|v|לטעון (בלי הוכחה)|B1|
+proposer|n|v|להציע|B1|
+promettre|n|v|להבטיח|B1|
+remercier|n|v|להודות (לומר תודה)|B1|
+se plaindre|n|v|להתלונן|B1|
+signifier|n|v|פירושו (להיות משמעותו של)|B1|
+souligner|n|v|להדגיש / לקו מתחת|B1|
+supposer|n|v|להניח (לשער)|B1|
+se tromper|n|v|לטעות|B1|
+s'excuser|n|v|להתנצל|B1|
+pardonner|n|v|לסלוח|B1|
+permettre|n|v|להרשות / לאפשר|B1|
+interdire|n|v|לאסור|B1|
+obliger|n|v|לחייב / לעשות טובה|B1|
+empêcher|n|v|למנוע|B1|
+éviter|n|v|להימנע / להתחמק|B1|
+risquer|n|v|להסתכן|B1|
+oser|n|v|להעז|B1|
+hésiter|n|v|להסס|B1|
+craindre|n|v|לחשוש / לפחד|B1|
+s'inquiéter|n|v|לדאוג (להיות מודאג)|B1|
+rêver|n|v|לחלום|B1|
+souhaiter|n|v|לאחל / לרצות|B1|
+mériter|n|v|להיות ראוי ל...|B1|
+réaliser|n|v|להגשים / להבין|B1|
+atteindre|n|v|להשיג / להגיע|B1|
+obtenir|n|v|להשיג / לקבל|B1|
+améliorer|n|v|לשפר|B1|
+augmenter|n|v|להגדיל / לעלות|B1|
+diminuer|n|v|להקטין / לרדת|B1|
+développer|n|v|לפתח|B1|
+créer|n|v|ליצור|B1|
+produire|n|v|לייצר|B1|
+détruire|n|v|להרוס|B1|
+transformer|n|v|לשנות צורה / להפוך|B1|
+remplacer|n|v|להחליף|B1|
+ajouter|n|v|להוסיף|B1|
+enlever|n|v|להסיר / להוריד|B1|
+réparer|n|v|לתקן|B1|
+casser|n|v|לשבור|B1|
+couper|n|v|לחתוך|B1|
+brûler|n|v|לשרוף / לבעור|B1|
+cacher|n|v|להסתיר|B1|
+se cacher|n|v|להתחבא|B1|
+découvrir|n|v|לגלות|B1|
+reconnaître|n|v|לזהות / להכיר ב...|B1|
+remarquer|n|v|להבחין|B1|
+observer|n|v|להתבונן|B1|
+imaginer|n|v|לדמיין|B1|
+comparer|n|v|להשוות|B1|
+analyser|n|v|לנתח|B1|
+résumer|n|v|לסכם|B1|
+traduire|n|v|לתרגם|B1|
+prononcer|n|v|לבטא (מילה)|B1|
+représenter|n|v|לייצג / לתאר|B1|
+illustrer|n|v|לאייר / להמחיש|B1|
+appartenir|n|v|להשתייך|B1|
+dépendre de|n|v|להיות תלוי ב...|B1|
+concerner|n|v|להיות נוגע ל...|B1|
+consister à|n|v|להיות מורכב מ... / לכלול|B1|
+exister|n|v|להתקיים / להיות קיים|B1|
+manquer|n|v|לחסור / להחמיץ|B1|tu me manques = אני מתגעגע/ת אליך
+se passer|n|v|לקרות / להתרחש|B1|
+arriver à|n|v|להצליח ל... / לקרות ל...|B1|
+se rendre compte|n|v|להבין / לשים לב|B1|
+se mettre à|n|v|להתחיל ל...|B1|
+s'agir de|n|v|מדובר ב...|B1|il s'agit de = מדובר ב...
+s'habituer à|n|v|להתרגל ל...|B1|
+se débrouiller|n|v|להסתדר|B1|
+se battre|n|v|להילחם / לריב|B1|
+se disputer|n|v|לריב (להתווכח)|B1|
+s'entendre|n|v|להסתדר (עם מישהו)|B1|
+se fâcher|n|v|לכעוס|B1|
+se moquer de|n|v|ללעוג ל...|B1|
+se méfier de|n|v|לחשוד ב... / להיזהר מ...|B1|
+se rapprocher|n|v|להתקרב|B1|
+s'éloigner|n|v|להתרחק|B1|
+s'échapper|n|v|לברוח / להימלט|B1|
+fuir|n|v|לברוח|B1|
+sauver|n|v|להציל|B1|
+libérer|n|v|לשחרר|B1|
+attraper|n|v|לתפוס|B1|
+saisir|n|v|לתפוס / לאחוז|B1|
+lâcher|n|v|לשחרר / להרפות|B1|
+pousser|n|v|לדחוף / לצמוח|B1|
+tirer|n|v|למשוך / לירות|B1|
+lever|n|v|להרים|B1|
+poser|n|v|להניח / לשאול (שאלה)|B1|
+frapper|n|v|להכות / לדפוק|B1|
+blesser|n|v|לפצוע / לפגוע|B1|
+soigner|n|v|לטפל (בחולה)|B1|
+guérir|n|v|להחלים / לרפא|B1|
+nourrir|n|v|להאכיל / להזין|B1|
+arroser|n|v|להשקות|B1|
+cueillir|n|v|לקטוף|B1|
+pousser un cri|n|phr|לצעוק / להשמיע צעקה|B1|
+se taire|n|v|לשתוק|B1|
+murmurer|n|v|ללחוש / למלמל|B1|
+chuchoter|n|v|ללחוש|B1|
+se douter de|n|v|לחשוד / לנחש|B1|
+ressembler à|n|v|להיות דומה ל...|B1|
+valoir|n|v|להיות שווה|B1|il vaut mieux = עדיף
+suffire|n|v|להספיק|B1|ça suffit = מספיק!
+paraître|n|v|להיראות / להופיע|B1|
+apparaître|n|v|להופיע|B1|
+disparaître|n|v|להיעלם|B1|
+durer|n|v|להימשך|B1|
+se produire|n|v|להתרחש / להופיע (על במה)|B1|

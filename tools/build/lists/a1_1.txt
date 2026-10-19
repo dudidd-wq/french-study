@@ -1,0 +1,158 @@
+bonjour|n|int|שלום (בוקר טוב / יום טוב)|A1|
+bonsoir|n|int|ערב טוב|A1|
+salut|n|int|היי / ביי (לא רשמי)|A1|
+au revoir|n|int|להתראות|A1|
+merci|n|int|תודה|A1|
+s'il te plaît|n|phr|בבקשה (לחבר)|A1|
+s'il vous plaît|n|phr|בבקשה (בנימוס / לרבים)|A1|
+oui|n|adv|כן|A1|
+non|n|adv|לא|A1|
+pardon|n|int|סליחה|A1|
+excusez-moi|n|phr|סלח לי / סליחה (בנימוס)|A1|
+de rien|n|phr|על לא דבר / אין בעד מה|A1|
+ça va ?|n|phr|מה נשמע? / הכול בסדר?|A1|
+bienvenue|n|int|ברוכים הבאים|A1|
+à bientôt|n|phr|נתראה בקרוב|A1|
+à demain|n|phr|נתראה מחר|A1|
+bonne nuit|n|phr|לילה טוב|A1|
+enchanté, enchantée|n|adj|נעים מאוד (להכיר)|A1|
+madame|f|n|גברת|A1|
+monsieur|m|n|אדון / מר|A1|
+mademoiselle|f|n|עלמה / גברת צעירה|A1|
+je|n|pron|אני|A1|
+tu|n|pron|אתה / את|A1|
+il|n|pron|הוא|A1|
+elle|n|pron|היא|A1|
+nous|n|pron|אנחנו|A1|
+vous|n|pron|אתם / אתן / אתה (בנימוס)|A1|
+ils|n|pron|הם|A1|
+elles|n|pron|הן|A1|
+on|n|pron|אנחנו (בדיבור) / אומרים ש...|A1|
+moi|n|pron|אני (מודגש) / אותי|A1|
+toi|n|pron|אתה / את (מודגש)|A1|
+lui|n|pron|הוא (מודגש) / לו / לה|A1|
+ce, cette, ces|n|det|הזה / הזאת / האלה|A1|
+mon, ma, mes|n|det|שלי|A1|
+ton, ta, tes|n|det|שלך (ליחיד)|A1|
+son, sa, ses|n|det|שלו / שלה|A1|
+notre, nos|n|det|שלנו|A1|
+votre, vos|n|det|שלכם / שלך (בנימוס)|A1|
+leur, leurs|n|det|שלהם / שלהן|A1|
+qui|n|pron|מי|A1|
+que, quoi|n|pron|מה|A1|
+où|n|adv|איפה / לאן|A1|
+quand|n|adv|מתי / כאשר|A1|
+comment|n|adv|איך|A1|
+pourquoi|n|adv|למה|A1|
+parce que|n|conj|כי / מפני ש...|A1|
+combien|n|adv|כמה|A1|
+quel, quelle|n|det|איזה / איזו|A1|
+et|n|conj|ו... (וגם)|A1|
+ou|n|conj|או|A1|
+mais|n|conj|אבל|A1|
+avec|n|prep|עם|A1|
+sans|n|prep|בלי|A1|
+pour|n|prep|בשביל / כדי|A1|
+dans|n|prep|בתוך / ב...|A1|
+sur|n|prep|על|A1|
+sous|n|prep|מתחת ל...|A1|
+devant|n|prep|לפני / מול|A1|
+derrière|n|prep|מאחורי|A1|
+entre|n|prep|בין|A1|
+chez|n|prep|אצל / בבית של|A1|
+à|n|prep|ל... / ב...|A1|
+de|n|prep|של / מ...|A1|
+en|n|prep|ב... (בשפה, בחודש, בארץ)|A1|
+à côté de|n|prep|ליד|A1|
+loin de|n|prep|רחוק מ...|A1|
+près de|n|prep|קרוב ל...|A1|
+ici|n|adv|כאן|A1|
+là|n|adv|שם / כאן|A1|
+très|n|adv|מאוד|A1|
+beaucoup|n|adv|הרבה|A1|
+un peu|n|adv|קצת|A1|
+aussi|n|adv|גם|A1|
+encore|n|adv|עוד / שוב / עדיין|A1|
+toujours|n|adv|תמיד / עדיין|A1|
+jamais|n|adv|אף פעם|A1|
+souvent|n|adv|לעיתים קרובות|A1|
+parfois|n|adv|לפעמים|A1|
+maintenant|n|adv|עכשיו|A1|
+aujourd'hui|n|adv|היום|A1|
+demain|n|adv|מחר|A1|
+hier|n|adv|אתמול|A1|
+déjà|n|adv|כבר|A1|
+bien|n|adv|טוב (היטב)|A1|
+mal|n|adv|רע / לא טוב|A1|
+trop|n|adv|יותר מדי|A1|
+assez|n|adv|מספיק / די|A1|
+vite|n|adv|מהר|A1|
+après|n|prep|אחרי|A1|
+avant|n|prep|לפני (בזמן)|A1|
+tard|n|adv|מאוחר|A1|
+tôt|n|adv|מוקדם|A1|
+le matin|m|n|הבוקר / בבוקר|A1|
+le midi|m|n|צהריים|A1|
+l'après-midi|m|n|אחר הצהריים|A1|
+le soir|m|n|ערב|A1|
+la nuit|f|n|לילה|A1|
+le jour|m|n|יום|A1|
+la semaine|f|n|שבוע|A1|
+le mois|m|n|חודש|A1|
+l'an, l'année|a|n|שנה|A1|
+l'heure|f|n|שעה|A1|
+la minute|f|n|דקה|A1|
+la seconde|f|n|שנייה|A1|
+le week-end|m|n|סוף שבוע|A1|
+lundi|m|n|יום שני|A1|
+mardi|m|n|יום שלישי|A1|
+mercredi|m|n|יום רביעי|A1|
+jeudi|m|n|יום חמישי|A1|
+vendredi|m|n|יום שישי|A1|
+samedi|m|n|שבת|A1|
+dimanche|m|n|יום ראשון|A1|יום המנוחה בצרפת
+janvier|m|n|ינואר|A1|
+février|m|n|פברואר|A1|
+mars|m|n|מרץ|A1|
+avril|m|n|אפריל|A1|
+mai|m|n|מאי|A1|
+juin|m|n|יוני|A1|
+juillet|m|n|יולי|A1|
+août|m|n|אוגוסט|A1|
+septembre|m|n|ספטמבר|A1|
+octobre|m|n|אוקטובר|A1|
+novembre|m|n|נובמבר|A1|
+décembre|m|n|דצמבר|A1|
+le printemps|m|n|אביב|A1|
+l'été|m|n|קיץ|A1|
+l'automne|m|n|סתיו|A1|
+l'hiver|m|n|חורף|A1|
+zéro|n|num|אפס|A1|
+un, une|n|num|אחד / אחת|A1|
+deux|n|num|שתיים / שניים|A1|
+trois|n|num|שלוש|A1|
+quatre|n|num|ארבע|A1|
+cinq|n|num|חמש|A1|
+six|n|num|שש|A1|
+sept|n|num|שבע|A1|
+huit|n|num|שמונה|A1|
+neuf|n|num|תשע|A1|
+dix|n|num|עשר|A1|
+onze|n|num|אחת־עשרה|A1|
+douze|n|num|שתים־עשרה|A1|
+treize|n|num|שלוש־עשרה|A1|
+quatorze|n|num|ארבע־עשרה|A1|
+quinze|n|num|חמש־עשרה|A1|
+seize|n|num|שש־עשרה|A1|
+vingt|n|num|עשרים|A1|
+trente|n|num|שלושים|A1|
+quarante|n|num|ארבעים|A1|
+cinquante|n|num|חמישים|A1|
+soixante|n|num|שישים|A1|
+soixante-dix|n|num|שבעים|A1|
+quatre-vingts|n|num|שמונים|A1|
+quatre-vingt-dix|n|num|תשעים|A1|
+cent|n|num|מאה|A1|
+mille|n|num|אלף|A1|
+premier, première|n|adj|ראשון / ראשונה|A1|
+dernier, dernière|n|adj|אחרון / אחרונה|A1|

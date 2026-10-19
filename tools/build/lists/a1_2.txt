@@ -1,0 +1,156 @@
+la famille|f|n|משפחה|A1|
+le père|m|n|אבא / אב|A1|
+la mère|f|n|אמא / אם|A1|
+les parents|m|n|הורים|A1|
+le frère|m|n|אח|A1|
+la sœur|f|n|אחות|A1|
+le fils|m|n|בן|A1|
+la fille|f|n|בת / ילדה|A1|
+l'enfant|a|n|ילד / ילדה|A1|
+le bébé|m|n|תינוק|A1|
+le grand-père|m|n|סבא|A1|
+la grand-mère|f|n|סבתא|A1|
+les grands-parents|m|n|סבא וסבתא|A1|
+l'oncle|m|n|דוד|A1|
+la tante|f|n|דודה|A1|
+le cousin, la cousine|a|n|בן דוד / בת דודה|A1|
+le mari|m|n|בעל|A1|
+la femme|f|n|אישה / רעיה|A1|
+l'homme|m|n|גבר / אדם|A1|
+le garçon|m|n|ילד / בחור|A1|
+l'ami, l'amie|a|n|חבר / חברה|A1|
+le copain, la copine|a|n|חבר / חברה (בדיבור)|A1|
+la personne|f|n|אדם / אישיות (גם לגבר)|A1|
+les gens|m|n|אנשים|A1|
+le nom|m|n|שם / שם משפחה|A1|
+le prénom|m|n|שם פרטי|A1|
+l'âge|m|n|גיל|A1|
+l'adresse|f|n|כתובת|A1|
+le numéro|m|n|מספר|A1|
+le téléphone|m|n|טלפון|A1|
+le portable|m|n|טלפון נייד|A1|
+le corps|m|n|גוף|A1|
+la tête|f|n|ראש|A1|
+les cheveux|m|n|שיער|A1|
+l'œil, les yeux|m|n|עין / עיניים|A1|
+le nez|m|n|אף|A1|
+la bouche|f|n|פה|A1|
+l'oreille|f|n|אוזן|A1|
+la main|f|n|יד (כף יד)|A1|
+le bras|m|n|זרוע|A1|
+la jambe|f|n|רגל|A1|
+le pied|m|n|כף רגל|A1|
+le dos|m|n|גב|A1|
+le ventre|m|n|בטן|A1|
+la dent|f|n|שן|A1|
+le visage|m|n|פנים|A1|
+la maison|f|n|בית|A1|
+l'appartement|m|n|דירה|A1|
+la chambre|f|n|חדר שינה|A1|
+la cuisine|f|n|מטבח / בישול|A1|
+la salle de bains|f|n|חדר רחצה|A1|
+le salon|m|n|סלון|A1|
+la porte|f|n|דלת|A1|
+la fenêtre|f|n|חלון|A1|
+la table|f|n|שולחן|A1|
+la chaise|f|n|כיסא|A1|
+le lit|m|n|מיטה|A1|
+la clé|f|n|מפתח|A1|
+le jardin|m|n|גינה|A1|
+l'eau|f|n|מים|A1|
+le pain|m|n|לחם|A1|
+le lait|m|n|חלב|A1|
+le café|m|n|קפה / בית קפה|A1|
+le thé|m|n|תה|A1|
+le jus|m|n|מיץ|A1|
+la pomme|f|n|תפוח|A1|
+la banane|f|n|בננה|A1|
+l'orange|f|n|תפוז|A1|
+le fruit|m|n|פרי|A1|
+le légume|m|n|ירק|A1|
+la tomate|f|n|עגבנייה|A1|
+la pomme de terre|f|n|תפוח אדמה|A1|
+la viande|f|n|בשר|A1|
+le poulet|m|n|עוף|A1|
+le poisson|m|n|דג|A1|
+l'œuf|m|n|ביצה|A1|
+le fromage|m|n|גבינה|A1|
+le riz|m|n|אורז|A1|
+les pâtes|f|n|פסטה|A1|
+la salade|f|n|סלט / חסה|A1|
+le sucre|m|n|סוכר|A1|
+le sel|m|n|מלח|A1|
+le gâteau|m|n|עוגה|A1|
+le chocolat|m|n|שוקולד|A1|
+la glace|f|n|גלידה / קרח / מראה|A1|
+le petit-déjeuner|m|n|ארוחת בוקר|A1|
+le déjeuner|m|n|ארוחת צהריים|A1|
+le dîner|m|n|ארוחת ערב|A1|
+le repas|m|n|ארוחה|A1|
+le restaurant|m|n|מסעדה|A1|
+la boisson|f|n|משקה|A1|
+les vêtements|m|n|בגדים|A1|
+la robe|f|n|שמלה|A1|
+la jupe|f|n|חצאית|A1|
+le pantalon|m|n|מכנסיים|A1|
+la chemise|f|n|חולצה מכופתרת|A1|
+le tee-shirt|m|n|טי־שירט|A1|
+le pull|m|n|סוודר|A1|
+la veste|f|n|ז'קט|A1|
+le manteau|m|n|מעיל|A1|
+les chaussures|f|n|נעליים|A1|
+le chapeau|m|n|כובע|A1|
+le sac|m|n|תיק / שקית|A1|
+la couleur|f|n|צבע|A1|
+blanc, blanche|n|adj|לבן|A1|
+noir, noire|n|adj|שחור|A1|
+rouge|n|adj|אדום|A1|
+bleu, bleue|n|adj|כחול|A1|
+vert, verte|n|adj|ירוק|A1|
+jaune|n|adj|צהוב|A1|
+rose|n|adj|ורוד|A1|
+gris, grise|n|adj|אפור|A1|
+marron|n|adj|חום|A1|
+violet, violette|n|adj|סגול|A1|
+l'animal|m|n|חיה / בעל חיים|A1|
+le chien|m|n|כלב|A1|
+le chat|m|n|חתול|A1|
+l'oiseau|m|n|ציפור|A1|
+le cheval|m|n|סוס|A1|
+la vache|f|n|פרה|A1|
+la souris|f|n|עכבר|A1|
+l'école|f|n|בית ספר|A1|
+la classe|f|n|כיתה|A1|
+le professeur|a|n|מורה|A1|
+l'élève|a|n|תלמיד / תלמידה|A1|
+l'étudiant, l'étudiante|a|n|סטודנט / סטודנטית|A1|
+le livre|m|n|ספר|A1|
+le cahier|m|n|מחברת|A1|
+le stylo|m|n|עט|A1|
+le crayon|m|n|עיפרון|A1|
+la gomme|f|n|מחק|A1|
+le cartable|m|n|ילקוט|A1|
+le tableau|m|n|לוח / ציור (תמונה)|A1|
+la leçon|f|n|שיעור (חומר הלימוד)|A1|
+le cours|m|n|שיעור / קורס|A1|
+les devoirs|m|n|שיעורי בית|A1|
+l'exercice|m|n|תרגיל|A1|
+la question|f|n|שאלה|A1|
+la réponse|f|n|תשובה|A1|
+le mot|m|n|מילה|A1|
+la phrase|f|n|משפט|A1|
+la langue|f|n|שפה / לשון|A1|
+le français|m|n|צרפתית (השפה)|A1|
+l'anglais|m|n|אנגלית (השפה)|A1|
+l'hébreu|m|n|עברית (השפה)|A1|h אילמת: l'hébreu
+l'arabe|m|n|ערבית (השפה)|A1|
+les mathématiques|f|n|מתמטיקה|A1|
+l'histoire|f|n|היסטוריה / סיפור|A1|
+la musique|f|n|מוזיקה|A1|
+le sport|m|n|ספורט|A1|
+le football|m|n|כדורגל|A1|
+le jeu|m|n|משחק|A1|
+le film|m|n|סרט|A1|
+la télévision|f|n|טלוויזיה|A1|
+l'ordinateur|m|n|מחשב|A1|
+la photo|f|n|תמונה (צילום)|A1|

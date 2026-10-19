@@ -1,0 +1,141 @@
+la chanson|f|n|שיר (מושר)|A2|
+le chanteur, la chanteuse|a|n|זמר / זמרת|A2|
+le concert|m|n|הופעה / קונצרט|A2|
+le spectacle|m|n|מופע / הצגה|A2|
+le théâtre|m|n|תיאטרון|A2|
+l'acteur, l'actrice|a|n|שחקן / שחקנית|A2|
+le roman|m|n|רומן (ספר)|A2|
+le journal|m|n|עיתון / יומן|A2|
+le magazine|m|n|מגזין|A2|
+l'article|m|n|כתבה / מאמר|A2|
+l'émission|f|n|תוכנית (טלוויזיה / רדיו)|A2|
+la radio|f|n|רדיו|A2|
+l'écran|m|n|מסך|A2|
+internet|m|n|אינטרנט|A2|
+le site|m|n|אתר|A2|
+le message|m|n|הודעה|A2|
+le courriel|m|n|דוא"ל / אימייל|A2|
+la lettre|f|n|מכתב / אות|A2|
+la carte|f|n|כרטיס / מפה / גלויה|A2|
+le réseau social|m|n|רשת חברתית|A2|
+l'application|f|n|אפליקציה|A2|
+le jeu vidéo|m|n|משחק וידאו|A2|
+le loisir|m|n|תחביב / פנאי|A2|
+le passe-temps|m|n|תחביב|A2|
+la promenade|f|n|טיול רגלי קצר|A2|
+la randonnée|f|n|טיול רגלי (מסלול)|A2|
+le voyage|m|n|טיול / נסיעה|A2|
+le touriste, la touriste|a|n|תייר / תיירת|A2|
+la valise|f|n|מזוודה|A2|
+le passeport|m|n|דרכון|A2|
+la réservation|f|n|הזמנה (מקום)|A2|
+le séjour|m|n|שהייה / ביקור|A2|
+la campagne|f|n|כפר / אזור כפרי / קמפיין|A2|
+la forêt|f|n|יער|A2|
+la rivière|f|n|נהר (קטן)|A2|
+le fleuve|m|n|נהר גדול|A2|
+le lac|m|n|אגם|A2|
+l'île|f|n|אי|A2|
+le ciel|m|n|שמיים|A2|
+l'étoile|f|n|כוכב|A2|
+la lune|f|n|ירח|A2|
+la terre|f|n|אדמה / כדור הארץ|A2|
+l'arbre|m|n|עץ|A2|
+la fleur|f|n|פרח|A2|
+l'herbe|f|n|דשא / עשב|A2|h אילמת: l'herbe
+la nature|f|n|טבע|A2|
+le nuage|m|n|ענן|A2|
+l'orage|m|n|סופת רעמים|A2|
+la température|f|n|טמפרטורה|A2|
+la saison|f|n|עונה|A2|
+le climat|m|n|אקלים|A2|
+le nord|m|n|צפון|A2|
+le sud|m|n|דרום|A2|
+l'est|m|n|מזרח|A2|
+l'ouest|m|n|מערב|A2|
+la gauche|f|n|שמאל|A2|à gauche = שמאלה
+la droite|f|n|ימין|A2|à droite = ימינה
+tout droit|n|adv|ישר (קדימה)|A2|
+le coin|m|n|פינה|A2|
+le quartier|m|n|שכונה|A2|
+le centre-ville|m|n|מרכז העיר|A2|
+le pont|m|n|גשר|A2|
+la route|f|n|כביש / דרך|A2|
+le chemin|m|n|דרך / שביל|A2|
+le feu|m|n|אש / רמזור|A2|
+le trottoir|m|n|מדרכה|A2|
+l'immeuble|m|n|בניין מגורים|A2|
+l'étage|m|n|קומה|A2|
+l'escalier|m|n|מדרגות|A2|
+l'ascenseur|m|n|מעלית|A2|
+le mur|m|n|קיר / חומה|A2|
+le toit|m|n|גג|A2|
+le meuble|m|n|רהיט|A2|
+l'armoire|f|n|ארון בגדים|A2|
+le canapé|m|n|ספה|A2|
+le frigo|m|n|מקרר|A2|
+la lampe|f|n|מנורה|A2|
+le miroir|m|n|מראה|A2|
+la douche|f|n|מקלחת|A2|
+le lavabo|m|n|כיור (רחצה)|A2|
+l'assiette|f|n|צלחת|A2|
+le verre|m|n|כוס / זכוכית|A2|
+la tasse|f|n|ספל|A2|
+la bouteille|f|n|בקבוק|A2|
+la fourchette|f|n|מזלג|A2|
+le couteau|m|n|סכין|A2|
+la cuillère|f|n|כף|A2|
+la recette|f|n|מתכון|A2|
+le plat|m|n|מנה / תבשיל|A2|
+le dessert|m|n|קינוח|A2|
+la soupe|f|n|מרק|A2|
+le beurre|m|n|חמאה|A2|
+la confiture|f|n|ריבה|A2|
+le croissant|m|n|קרואסון|A2|
+la baguette|f|n|באגט|A2|
+le yaourt|m|n|יוגורט|A2|
+la carotte|f|n|גזר|A2|
+l'oignon|m|n|בצל|A2|
+la fraise|f|n|תות|A2|
+le citron|m|n|לימון|A2|
+le raisin|m|n|ענבים|A2|
+la farine|f|n|קמח|A2|
+l'huile|f|n|שמן|A2|
+la faim|f|n|רעב|A2|avoir faim = להיות רעב
+la soif|f|n|צמא|A2|avoir soif = להיות צמא
+le serveur, la serveuse|a|n|מלצר / מלצרית|A2|
+l'addition|f|n|חשבון (במסעדה) / חיבור|A2|
+le menu|m|n|תפריט|A2|
+la carte bancaire|f|n|כרטיס אשראי|A2|
+la monnaie|f|n|עודף / כסף קטן / מטבע|A2|
+le client, la cliente|a|n|לקוח / לקוחה|A2|
+le vendeur, la vendeuse|a|n|מוכר / מוכרת|A2|
+les soldes|m|n|מבצעי הנחות|A2|
+la taille|f|n|מידה / גובה|A2|
+la pointure|f|n|מידת נעליים|A2|
+la mode|f|n|אופנה|A2|
+les lunettes|f|n|משקפיים|A2|
+la montre|f|n|שעון יד|A2|
+le bijou|m|n|תכשיט|A2|
+la ceinture|f|n|חגורה|A2|
+l'écharpe|f|n|צעיף|A2|
+les gants|m|n|כפפות|A2|
+les baskets|f|n|נעלי ספורט|A2|
+le maillot de bain|m|n|בגד ים|A2|
+la santé|f|n|בריאות|A2|
+la maladie|f|n|מחלה|A2|
+la douleur|f|n|כאב|A2|
+le médicament|m|n|תרופה|A2|
+la fièvre|f|n|חום (גוף)|A2|
+le rhume|m|n|הצטננות|A2|
+l'infirmier, l'infirmière|a|n|אח / אחות (בבית חולים)|A2|
+le dentiste|a|n|רופא שיניים|A2|
+le rendez-vous|m|n|פגישה / תור|A2|
+avoir mal à|n|phr|לכאוב ל... (יש לי כאב ב...)|A2|j'ai mal à la tête
+le cœur|m|n|לב|A2|
+le cou|m|n|צוואר|A2|
+l'épaule|f|n|כתף|A2|
+le genou|m|n|ברך|A2|
+le doigt|m|n|אצבע|A2|
+la peau|f|n|עור|A2|
+la voix|f|n|קול|A2|

@@ -1,0 +1,92 @@
+la grammaire|f|n|דקדוק|gr|
+la conjugaison|f|n|נטיית פעלים|gr|
+conjuguer|n|v|להטות (פועל)|gr|
+le verbe|m|n|פועל|gr|
+le nom|m|n|שם עצם / שם|gr|
+l'adjectif|m|n|שם תואר|gr|
+l'adverbe|m|n|תואר הפועל|gr|
+le pronom|m|n|כינוי (גוף)|gr|
+le pronom personnel|m|n|כינוי גוף אישי|gr|
+le pronom relatif|m|n|כינוי זיקה (qui, que, où)|gr|
+le complément d'objet direct|m|n|מושא ישיר (COD)|gr|
+le complément d'objet indirect|m|n|מושא עקיף (COI)|gr|
+l'article|m|n|תווית (le, la, un, une)|gr|
+le déterminant|m|n|מילה מגדירה לפני שם עצם (le, ce, mon...)|gr|
+la préposition|f|n|מילת יחס|gr|
+la conjonction|f|n|מילת חיבור|gr|
+le sujet|m|n|נושא (במשפט)|gr|
+le masculin|m|n|זכר (מין דקדוקי)|gr|
+le féminin|m|n|נקבה (מין דקדוקי)|gr|
+le singulier|m|n|יחיד|gr|
+le pluriel|m|n|רבים|gr|
+l'accord|m|n|התאמה (דקדוקית) / הסכמה|gr|
+accorder|n|v|להתאים (דקדוקית) / להעניק|gr|
+le temps|m|n|זמן (דקדוקי) / מזג אוויר|gr|
+le présent|m|n|הווה|gr|
+le passé composé|m|n|עבר מורכב (Passé composé)|gr|
+l'imparfait|m|n|עבר מתמשך (Imparfait)|gr|
+le plus-que-parfait|m|n|עבר מוקדם (Plus-que-parfait)|gr|לא בבחינה בכתב תשפ"ו
+le passé simple|m|n|עבר ספרותי (Passé simple)|gr|« vous perdîtes » = passé simple
+le futur simple|m|n|עתיד (Futur simple)|gr|
+le futur proche|m|n|עתיד קרוב (aller + שם פועל)|gr|
+le conditionnel|m|n|דרך התנאי (Conditionnel)|gr|
+le subjonctif|m|n|דרך האיווי (Subjonctif)|gr|
+l'impératif|m|n|ציווי|gr|« prenez garde » = impératif
+l'infinitif|m|n|שם פועל|gr|
+le participe passé|m|n|בינוני פעול (צורת עבר)|gr|
+l'auxiliaire|m|n|פועל עזר (être / avoir)|gr|
+le verbe pronominal|m|n|פועל רפלקסיבי (se laver)|gr|
+la négation|f|n|שלילה|gr|
+la phrase interrogative|f|n|משפט שאלה|gr|
+la voix passive|f|n|סביל|gr|
+le comparatif|m|n|ערך היתרון (plus... que)|gr|
+le superlatif|m|n|ערך ההפלגה (le plus...)|gr|
+le style indirect|m|n|דיבור עקיף|gr|לא בבחינה בכתב תשפ"ו
+la figure de style|f|n|אמצעי אמנותי (פיגורה)|gr|
+la personnification|f|n|האנשה|gr|Hugo : le mot devient un être vivant
+l'hyperbole|f|n|הגזמה (היפרבולה)|gr|
+la métaphore|f|n|מטפורה|gr|
+la comparaison|f|n|השוואה / דימוי|gr|« comme l'aigle »
+l'accumulation|f|n|צבירה (רצף מילים)|gr|
+l'énumération|f|n|מניה (רשימת פרטים)|gr|
+la répétition|f|n|חזרה|gr|
+l'ironie|f|n|אירוניה|gr|
+l'allégorie|f|n|אלגוריה|gr|Rhinocéros = allégorie du totalitarisme
+le champ lexical|m|n|שדה סמנטי (קבוצת מילים מאותו תחום)|gr|le champ lexical du secret
+le vers|m|n|שורה בשיר (בית שיר)|gr|
+la strophe|f|n|בית (בשיר)|gr|
+la rime|f|n|חריזה / חרוז|gr|
+l'alexandrin|m|n|אלכסנדרין (שורה בת 12 הברות)|gr|
+la syllabe|f|n|הברה|gr|
+le recueil|m|n|קובץ (שירים / סיפורים)|gr|
+l'extrait|m|n|קטע (מתוך יצירה)|gr|
+le narrateur, la narratrice|a|n|מספר / מספרת|gr|
+le thème|m|n|נושא (מרכזי)|gr|
+le ton|m|n|טון / נימה|gr|
+le message|m|n|מסר|gr|
+le genre littéraire|m|n|סוגה ספרותית (ז'אנר)|gr|
+le courant littéraire|m|n|זרם ספרותי|gr|
+la biographie|f|n|ביוגרפיה|gr|
+le dossier|m|n|תיק עבודות / תלקיט|gr|
+la rétroaction|f|n|משוב|gr|
+la compréhension|f|n|הבנה|gr|
+la rédaction|f|n|חיבור / כתיבה|gr|
+la production écrite|f|n|הבעה בכתב|gr|
+la compréhension orale|f|n|הבנת הנשמע|gr|
+le texte|m|n|טקסט|gr|
+le paragraphe|m|n|פסקה|gr|
+la ligne|f|n|שורה|gr|
+le vocabulaire|m|n|אוצר מילים|gr|
+le synonyme|m|n|מילה נרדפת|gr|
+le contraire|m|n|הפך / ניגוד|gr|
+au premier plan|n|phr|בחזית (בתמונה)|gr|תיאור תמונה
+à l'arrière-plan|n|phr|ברקע (בתמונה)|gr|תיאור תמונה
+au centre|n|phr|במרכז|gr|תיאור תמונה
+sur la photo, on voit|n|phr|בתמונה רואים|gr|תיאור תמונה
+il s'agit de|n|phr|מדובר ב...|gr|
+à mon avis|n|phr|לדעתי|gr|
+je pense que|n|phr|אני חושב/ת ש...|gr|
+selon moi|n|phr|לדעתי|gr|
+pour conclure|n|phr|לסיכום|gr|
+en conclusion|n|phr|לסיכום|gr|
+tout d'abord|n|phr|ראשית / קודם כול|gr|

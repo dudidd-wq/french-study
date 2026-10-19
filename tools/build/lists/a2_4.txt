@@ -1,0 +1,132 @@
+alors|n|adv|אז / ובכן|A2|
+donc|n|conj|לכן / אם כן|A2|
+puis|n|adv|אחר כך|A2|
+ensuite|n|adv|אחר כך / לאחר מכן|A2|
+enfin|n|adv|לבסוף / סוף סוף|A2|
+d'abord|n|adv|קודם כול|A2|
+pendant|n|prep|במשך / בזמן|A2|
+depuis|n|prep|מאז / כבר (מזה זמן)|A2|
+jusqu'à|n|prep|עד|A2|
+vers|n|prep|לכיוון / בסביבות (שעה)|A2|
+contre|n|prep|נגד / צמוד ל...|A2|
+par|n|prep|דרך / על ידי / ב...|A2|
+selon|n|prep|לפי / על פי|A2|
+sauf|n|prep|חוץ מ...|A2|
+comme|n|conj|כמו / בתור / מכיוון ש...|A2|
+si|n|conj|אם / כל כך / כן (בתשובה לשלילה)|A2|
+quelqu'un|n|pron|מישהו|A2|
+quelque chose|n|pron|משהו|A2|
+personne|n|pron|אף אחד|A2|ne... personne
+rien|n|pron|כלום / שום דבר|A2|ne... rien
+chacun, chacune|n|pron|כל אחד / כל אחת|A2|
+quelques|n|det|כמה (מעט)|A2|
+plusieurs|n|det|כמה / מספר (רבים)|A2|
+chaque|n|det|כל (אחד ואחד)|A2|
+aucun, aucune|n|det|אף... / שום...|A2|
+ne... pas|n|adv|לא (שלילה)|A2|
+ne... plus|n|adv|כבר לא / לא עוד|A2|
+ne... que|n|adv|רק|A2|
+seulement|n|adv|רק|A2|
+surtout|n|adv|במיוחד / בעיקר|A2|
+vraiment|n|adv|באמת|A2|
+presque|n|adv|כמעט|A2|
+ensemble|n|adv|ביחד|A2|
+partout|n|adv|בכל מקום|A2|
+ailleurs|n|adv|במקום אחר|A2|
+dehors|n|adv|בחוץ|A2|
+dedans|n|adv|בפנים|A2|
+en haut|n|adv|למעלה|A2|
+en bas|n|adv|למטה|A2|
+autour|n|adv|מסביב|A2|
+longtemps|n|adv|זמן רב|A2|
+bientôt|n|adv|בקרוב|A2|
+tout de suite|n|adv|מיד|A2|
+plus tard|n|adv|מאוחר יותר|A2|
+tout à coup|n|adv|פתאום|A2|
+soudain|n|adv|לפתע|A2|
+quelquefois|n|adv|לפעמים|A2|
+d'habitude|n|adv|בדרך כלל|A2|
+plus|n|adv|יותר|A2|
+moins|n|adv|פחות|A2|
+autant|n|adv|באותה מידה|A2|
+si bien que|n|conj|כך ש...|A2|
+pourtant|n|adv|ובכל זאת / למרות זאת|A2|
+cependant|n|adv|אולם / עם זאת|A2|
+lorsque|n|conj|כאשר|A2|
+pendant que|n|conj|בזמן ש...|A2|
+au lieu de|n|prep|במקום|A2|
+à cause de|n|prep|בגלל|A2|
+grâce à|n|prep|בזכות|A2|
+au milieu de|n|prep|באמצע|A2|
+en face de|n|prep|מול|A2|
+au-dessus de|n|prep|מעל|A2|
+au-dessous de|n|prep|מתחת ל...|A2|
+le match|m|n|משחק (ספורט)|A2|
+l'équipe|f|n|קבוצה / צוות|A2|
+le joueur, la joueuse|a|n|שחקן / שחקנית|A2|
+le ballon|m|n|כדור / בלון|A2|
+le stade|m|n|אצטדיון|A2|
+la natation|f|n|שחייה|A2|
+le tennis|m|n|טניס|A2|
+le basket|m|n|כדורסל|A2|
+la danse|f|n|ריקוד|A2|
+le ski|m|n|סקי|A2|
+le vainqueur|m|n|מנצח|A2|
+l'entraînement|m|n|אימון|A2|
+le guide|m|n|מדריך|A2|
+le plan|m|n|מפה (של עיר) / תוכנית|A2|
+le panneau|m|n|שלט|A2|
+le parking|m|n|חניה / חניון|A2|
+l'arrêt|m|n|תחנה (אוטובוס)|A2|
+le quai|m|n|רציף / מזח|A2|
+le départ|m|n|יציאה / עזיבה|A2|
+l'arrivée|f|n|הגעה|A2|
+le retard|m|n|איחור|A2|en retard = מאחר
+l'avance|f|n|הקדמה|A2|en avance = מוקדם
+l'horaire|m|n|לוח זמנים|A2|
+la sortie|f|n|יציאה / יציאה לבילוי|A2|
+l'entrée|f|n|כניסה / מנה ראשונה|A2|
+le bateau|m|n|סירה / אונייה|A2|
+la moto|f|n|אופנוע|A2|
+le camion|m|n|משאית|A2|
+la trottinette|f|n|קורקינט|A2|
+le permis de conduire|m|n|רישיון נהיגה|A2|
+l'accident|m|n|תאונה|A2|
+le danger|m|n|סכנה|A2|
+la police|f|n|משטרה|A2|
+le voleur, la voleuse|a|n|גנב / גנבת|A2|
+l'aide|f|n|עזרה|A2|
+au secours !|n|int|הצילו!|A2|
+attention !|n|int|זהירות!|A2|
+bravo !|n|int|כל הכבוד!|A2|
+bon appétit|n|phr|בתיאבון|A2|
+bonne chance|n|phr|בהצלחה|A2|
+joyeux anniversaire|n|phr|יום הולדת שמח|A2|
+bonne année|n|phr|שנה טובה|A2|
+ça dépend|n|phr|זה תלוי|A2|
+ce n'est pas grave|n|phr|זה לא נורא|A2|
+avoir besoin de|n|phr|להזדקק ל...|A2|
+avoir envie de|n|phr|להתחשק ל... / לרצות|A2|
+avoir raison|n|phr|לצדוק|A2|
+avoir tort|n|phr|לטעות (לא לצדוק)|A2|
+avoir de la chance|n|phr|שיש מזל|A2|
+faire attention|n|phr|לשים לב / להיזהר|A2|
+faire la queue|n|phr|לעמוד בתור|A2|
+faire les courses|n|phr|לעשות קניות (מצרכים)|A2|
+faire du shopping|n|phr|לעשות שופינג|A2|
+faire la cuisine|n|phr|לבשל|A2|
+faire la vaisselle|n|phr|לשטוף כלים|A2|
+faire le ménage|n|phr|לנקות את הבית|A2|
+faire du sport|n|phr|לעשות ספורט|A2|
+faire la fête|n|phr|לחגוג / לעשות מסיבה|A2|
+prendre une douche|n|phr|להתקלח|A2|
+prendre le petit-déjeuner|n|phr|לאכול ארוחת בוקר|A2|
+avoir l'air|n|phr|להיראות (מראה)|A2|
+il est midi|n|phr|השעה שתים־עשרה בצהריים|A2|
+quelle heure est-il ?|n|phr|מה השעה?|A2|
+à quelle heure ?|n|phr|באיזו שעה?|A2|
+ça coûte combien ?|n|phr|כמה זה עולה?|A2|
+qu'est-ce que c'est ?|n|phr|מה זה?|A2|
+je ne sais pas|n|phr|אני לא יודע/ת|A2|
+j'aimerais|n|phr|הייתי רוצה|A2|
+je voudrais|n|phr|הייתי רוצה (בנימוס)|A2|

@@ -1,0 +1,121 @@
+le métier|m|n|מקצוע|A2|
+la profession|f|n|מקצוע (רשמי)|A2|
+l'emploi|m|n|משרה / תעסוקה|A2|
+l'entreprise|f|n|חברה (עסק)|A2|
+le patron, la patronne|a|n|בוס / בעל עסק|A2|
+le collègue, la collègue|a|n|עמית / עמיתה לעבודה|A2|
+l'ingénieur|a|n|מהנדס / מהנדסת|A2|
+l'avocat, l'avocate|a|n|עורך דין / עורכת דין|A2|
+le policier, la policière|a|n|שוטר / שוטרת|A2|
+le pompier|a|n|כבאי|A2|
+l'agriculteur, l'agricultrice|a|n|חקלאי / חקלאית|A2|
+le cuisinier, la cuisinière|a|n|טבח / טבחית|A2|
+le boulanger, la boulangère|a|n|אופה / אופה (בת)|A2|
+le directeur, la directrice|a|n|מנהל / מנהלת|A2|
+le salaire|m|n|משכורת|A2|
+le lycée|m|n|תיכון|A2|
+le collège|m|n|חטיבת ביניים|A2|
+l'université|f|n|אוניברסיטה|A2|
+la bibliothèque|f|n|ספרייה|A2|
+la cantine|f|n|חדר אוכל (בבית הספר)|A2|
+la récréation|f|n|הפסקה (בבית הספר)|A2|
+l'emploi du temps|m|n|מערכת שעות|A2|
+la note|f|n|ציון / פתק|A2|
+l'examen|m|n|מבחן / בחינה|A2|
+le contrôle|m|n|בוחן / בדיקה|A2|
+le bac|m|n|בגרות (הבחינה בצרפת)|A2|
+la matière|f|n|מקצוע לימוד / חומר|A2|
+les sciences|f|n|מדעים|A2|
+la géographie|f|n|גיאוגרפיה|A2|
+la physique|f|n|פיזיקה|A2|
+la chimie|f|n|כימיה|A2|
+la biologie|f|n|ביולוגיה|A2|
+le dessin|m|n|ציור / שרטוט|A2|
+la page|f|n|עמוד|A2|
+le dictionnaire|m|n|מילון|A2|
+le sujet|m|n|נושא|A2|
+l'erreur|f|n|טעות|A2|
+la faute|f|n|טעות / אשמה|A2|
+l'idée|f|n|רעיון|A2|
+l'exemple|m|n|דוגמה|A2|par exemple = לדוגמה
+le problème|m|n|בעיה|A2|
+la solution|f|n|פתרון|A2|
+la raison|f|n|סיבה / שכל|A2|avoir raison = לצדוק
+le moment|m|n|רגע|A2|
+la date|f|n|תאריך|A2|
+le siècle|m|n|מאה (100 שנה)|A2|
+le début|m|n|התחלה|A2|
+la fin|f|n|סוף|A2|
+le milieu|m|n|אמצע / סביבה|A2|
+la partie|f|n|חלק / משחק (משחקון)|A2|
+le morceau|m|n|חתיכה|A2|
+la moitié|f|n|חצי|A2|
+le quart|m|n|רבע|A2|
+la demie|f|n|חצי (שעה)|A2|
+la façon|f|n|אופן / דרך|A2|
+le sentiment|m|n|רגש / תחושה|A2|
+l'amour|m|n|אהבה|A2|
+l'amitié|f|n|ידידות / חברות|A2|
+la joie|f|n|שמחה|A2|
+la peur|f|n|פחד|A2|avoir peur = לפחד
+la colère|f|n|כעס|A2|
+la surprise|f|n|הפתעה|A2|
+le rêve|m|n|חלום|A2|
+le bonheur|m|n|אושר|A2|
+la chance|f|n|מזל / סיכוי|A2|
+le plaisir|m|n|הנאה|A2|avec plaisir = בשמחה
+le souvenir|m|n|זיכרון / מזכרת|A2|
+l'envie|f|n|רצון / חשק / קנאה|A2|avoir envie de = להתחשק
+le besoin|m|n|צורך|A2|avoir besoin de = להזדקק ל...
+la vérité|f|n|אמת|A2|
+le mensonge|m|n|שקר|A2|
+le secret|m|n|סוד|A2|
+le voisin, la voisine|a|n|שכן / שכנה|A2|
+l'invité, l'invitée|a|n|אורח / אורחת|A2|
+l'invitation|f|n|הזמנה (למסיבה)|A2|
+le mariage|m|n|חתונה / נישואים|A2|
+la naissance|f|n|לידה|A2|
+la mort|f|n|מוות|A2|
+le roi|m|n|מלך|A2|
+la reine|f|n|מלכה|A2|
+le prince|m|n|נסיך|A2|
+la princesse|f|n|נסיכה|A2|
+le château|m|n|ארמון / טירה|A2|
+l'église|f|n|כנסייה|A2|
+la synagogue|f|n|בית כנסת|A2|
+la mosquée|f|n|מסגד|A2|
+le lion|m|n|אריה|A2|
+le rat|m|n|עכברוש|A2|
+le lapin|m|n|ארנב|A2|
+le cochon|m|n|חזיר|A2|
+le mouton|m|n|כבש|A2|
+la poule|f|n|תרנגולת|A2|
+le canard|m|n|ברווז|A2|
+l'âne|m|n|חמור|A2|
+le singe|m|n|קוף|A2|
+l'éléphant|m|n|פיל|A2|
+le tigre|m|n|נמר (טיגריס)|A2|
+le loup|m|n|זאב|A2|
+le renard|m|n|שועל|A2|
+l'ours|m|n|דוב|A2|
+le serpent|m|n|נחש|A2|
+l'insecte|m|n|חרק|A2|
+le papillon|m|n|פרפר|A2|
+l'abeille|f|n|דבורה|A2|
+la mouche|f|n|זבוב|A2|
+la fourmi|f|n|נמלה|A2|
+la cigale|f|n|צרצר (ציקדה)|A2|
+le corbeau|m|n|עורב|A2|
+la grenouille|f|n|צפרדע|A2|
+la plante|f|n|צמח|A2|
+la feuille|f|n|עלה / דף|A2|
+la graine|f|n|זרע / גרגר|A2|
+le bois|m|n|עץ (חומר) / חורשה|A2|
+la pierre|f|n|אבן|A2|
+le sable|m|n|חול|A2|
+l'air|m|n|אוויר / מראה|A2|avoir l'air = להיראות
+le bruit|m|n|רעש|A2|
+le silence|m|n|שקט / שתיקה|A2|
+la lumière|f|n|אור|A2|
+l'ombre|f|n|צל|A2|
+le feu d'artifice|m|n|זיקוקים|A2|

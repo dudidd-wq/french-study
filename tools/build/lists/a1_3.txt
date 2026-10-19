@@ -1,0 +1,166 @@
+la ville|f|n|עיר|A1|
+le village|m|n|כפר|A1|
+la rue|f|n|רחוב|A1|
+le pays|m|n|ארץ / מדינה|A1|
+la France|f|n|צרפת|A1|
+Israël|m|n|ישראל|A1|
+Paris|m|n|פריז|A1|
+le magasin|m|n|חנות|A1|
+le supermarché|m|n|סופרמרקט|A1|
+le marché|m|n|שוק|A1|
+la boulangerie|f|n|מאפייה|A1|
+la banque|f|n|בנק|A1|
+la poste|f|n|דואר|A1|
+l'hôpital|m|n|בית חולים|A1|
+la pharmacie|f|n|בית מרקחת|A1|
+la gare|f|n|תחנת רכבת|A1|
+l'aéroport|m|n|שדה תעופה|A1|
+l'hôtel|m|n|מלון|A1|
+le musée|m|n|מוזיאון|A1|
+le cinéma|m|n|קולנוע|A1|
+le parc|m|n|פארק|A1|
+la plage|f|n|חוף ים|A1|
+la mer|f|n|ים|A1|
+la montagne|f|n|הר / הרים|A1|
+la piscine|f|n|בריכה|A1|
+la place|f|n|כיכר / מקום|A1|
+le bureau|m|n|משרד / שולחן כתיבה|A1|
+la voiture|f|n|מכונית|A1|
+le bus|m|n|אוטובוס|A1|
+le train|m|n|רכבת|A1|
+l'avion|m|n|מטוס|A1|
+le vélo|m|n|אופניים|A1|
+le métro|m|n|רכבת תחתית|A1|
+le taxi|m|n|מונית|A1|
+le billet|m|n|כרטיס / שטר כסף|A1|
+le ticket|m|n|כרטיס (נסיעה)|A1|
+l'argent|m|n|כסף|A1|
+l'euro|m|n|אירו|A1|
+le prix|m|n|מחיר / פרס|A1|
+le temps|m|n|זמן / מזג אוויר|A1|
+le soleil|m|n|שמש|A1|
+la pluie|f|n|גשם|A1|
+la neige|f|n|שלג|A1|
+le vent|m|n|רוח|A1|
+il fait beau|n|phr|מזג האוויר יפה|A1|
+il fait chaud|n|phr|חם (מזג האוויר)|A1|
+il fait froid|n|phr|קר (מזג האוויר)|A1|
+il pleut|n|phr|יורד גשם|A1|
+le chaud|m|n|החום|A1|
+le froid|m|n|הקור|A1|
+le travail|m|n|עבודה|A1|
+le médecin|a|n|רופא / רופאה|A1|
+les vacances|f|n|חופשה / חופש|A1|
+la fête|f|n|מסיבה / חג|A1|
+l'anniversaire|m|n|יום הולדת|A1|
+le cadeau|m|n|מתנה|A1|
+la chose|f|n|דבר|A1|
+la fois|f|n|פעם|A1|une fois, deux fois
+le monde|m|n|עולם / אנשים|A1|tout le monde = כולם
+la vie|f|n|חיים|A1|
+être|n|v|להיות|A1|
+avoir|n|v|שיש ל... / להחזיק|A1|j'ai = יש לי
+aller|n|v|ללכת / לנסוע|A1|
+faire|n|v|לעשות|A1|
+dire|n|v|לומר / להגיד|A1|
+pouvoir|n|v|יכול (להיות מסוגל)|A1|
+vouloir|n|v|לרצות|A1|
+savoir|n|v|לדעת|A1|
+voir|n|v|לראות|A1|
+venir|n|v|לבוא|A1|
+prendre|n|v|לקחת|A1|
+mettre|n|v|לשים / ללבוש|A1|
+parler|n|v|לדבר|A1|
+aimer|n|v|לאהוב / לחבב|A1|
+adorer|n|v|להעריץ / לאהוב מאוד|A1|
+détester|n|v|לשנוא / לא לסבול|A1|
+préférer|n|v|להעדיף|A1|
+manger|n|v|לאכול|A1|
+boire|n|v|לשתות|A1|
+dormir|n|v|לישון|A1|
+habiter|n|v|לגור|A1|
+travailler|n|v|לעבוד|A1|
+étudier|n|v|ללמוד (לימודים)|A1|
+apprendre|n|v|ללמוד (משהו חדש)|A1|
+comprendre|n|v|להבין|A1|
+écouter|n|v|להקשיב / לשמוע|A1|
+entendre|n|v|לשמוע|A1|
+regarder|n|v|להסתכל / לצפות|A1|
+lire|n|v|לקרוא (ספר)|A1|
+écrire|n|v|לכתוב|A1|
+jouer|n|v|לשחק / לנגן|A1|
+chanter|n|v|לשיר|A1|
+danser|n|v|לרקוד|A1|
+marcher|n|v|ללכת ברגל / לפעול|A1|
+courir|n|v|לרוץ|A1|
+nager|n|v|לשחות|A1|
+acheter|n|v|לקנות|A1|
+payer|n|v|לשלם|A1|
+donner|n|v|לתת|A1|
+chercher|n|v|לחפש|A1|
+trouver|n|v|למצוא|A1|
+ouvrir|n|v|לפתוח|A1|
+fermer|n|v|לסגור|A1|
+commencer|n|v|להתחיל|A1|
+finir|n|v|לסיים / להיגמר|A1|
+arriver|n|v|להגיע|A1|
+partir|n|v|לעזוב / לצאת לדרך|A1|
+sortir|n|v|לצאת|A1|
+entrer|n|v|להיכנס|A1|
+rester|n|v|להישאר|A1|
+rentrer|n|v|לחזור (הביתה)|A1|
+attendre|n|v|לחכות|A1|
+appeler|n|v|לקרוא ל... / להתקשר|A1|
+s'appeler|n|v|להיקרא (שמי...)|A1|je m'appelle = קוראים לי
+se lever|n|v|לקום|A1|
+se coucher|n|v|ללכת לישון / לשכב|A1|
+aider|n|v|לעזור|A1|
+penser|n|v|לחשוב|A1|
+croire|n|v|להאמין / לחשוב ש...|A1|
+connaître|n|v|להכיר|A1|
+demander|n|v|לבקש / לשאול|A1|
+répondre|n|v|לענות|A1|
+visiter|n|v|לבקר (מקום)|A1|
+voyager|n|v|לטייל / לנסוע|A1|
+cuisiner|n|v|לבשל|A1|
+laver|n|v|לשטוף / לרחוץ|A1|
+porter|n|v|לשאת / ללבוש|A1|
+devoir|n|v|חייב / צריך|A1|
+falloir|n|v|צריך (il faut)|A1|il faut = צריך
+bon, bonne|n|adj|טוב / טובה|A1|
+mauvais, mauvaise|n|adj|רע / גרוע|A1|
+grand, grande|n|adj|גדול / גבוה|A1|
+petit, petite|n|adj|קטן / נמוך|A1|
+beau, belle|n|adj|יפה|A1|
+joli, jolie|n|adj|יפה / חמוד|A1|
+nouveau, nouvelle|n|adj|חדש|A1|
+vieux, vieille|n|adj|זקן / ישן|A1|
+jeune|n|adj|צעיר|A1|
+gentil, gentille|n|adj|נחמד|A1|
+content, contente|n|adj|מרוצה / שמח|A1|
+heureux, heureuse|n|adj|מאושר|A1|
+triste|n|adj|עצוב|A1|
+fatigué, fatiguée|n|adj|עייף|A1|
+malade|n|adj|חולה|A1|
+facile|n|adj|קל (לא קשה)|A1|
+difficile|n|adj|קשה (לא קל)|A1|
+chaud, chaude|n|adj|חם|A1|
+froid, froide|n|adj|קר|A1|
+cher, chère|n|adj|יקר|A1|
+long, longue|n|adj|ארוך|A1|
+court, courte|n|adj|קצר|A1|
+gros, grosse|n|adj|גדול / שמן|A1|
+intéressant, intéressante|n|adj|מעניין|A1|
+sympa|n|adj|נחמד (בדיבור)|A1|
+super|n|adj|מעולה / סבבה|A1|
+important, importante|n|adj|חשוב|A1|
+même|n|adj|אותו / אותה / אפילו|A1|
+autre|n|adj|אחר|A1|
+tout, toute, tous|n|det|כל / הכול|A1|
+seul, seule|n|adj|לבד / יחיד|A1|
+prêt, prête|n|adj|מוכן|A1|
+fini, finie|n|adj|גמור / הסתיים|A1|
+il y a|n|phr|יש (קיים) / לפני (זמן)|A1|
+voilà|n|adv|הנה|A1|
+d'accord|n|phr|בסדר / מסכים|A1|
+peut-être|n|adv|אולי|A1|

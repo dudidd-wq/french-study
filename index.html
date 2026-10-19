@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Français – לומדים מילים בצרפתית</title>
+<meta name="description" content="לימוד, האזנה ובחינה עצמית לאוצר מילים בצרפתית: רמות A1–B1 ומילים מחומרי הבגרות תשפ״ו">
+<meta name="theme-color" content="#1d4ed8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Français">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preload" href="fonts/rubik.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+  <header class="topbar">
+    <button class="icon-btn back" id="backBtn" aria-label="חזרה" hidden>→</button>
+    <a href="#/" class="brand"><span class="logo">FR</span><span class="brand-text">לומדים <b>צרפתית</b></span></a>
+    <div class="top-stats" id="topStats" aria-live="polite"></div>
+  </header>
+  <main id="view" tabindex="-1">
+    <div class="loading"><div class="spinner"></div><p>טוענת את המילים…</p></div>
+  </main>
+  <nav class="tabbar" aria-label="ניווט ראשי">
+    <a href="#/" data-tab="home"><span class="ti">🏠</span><span>בית</span></a>
+    <a href="#/parts" data-tab="parts"><span class="ti">📚</span><span>צפייה</span></a>
+    <a href="#/listen" data-tab="listen"><span class="ti">🎧</span><span>האזנה</span></a>
+    <a href="#/quiz" data-tab="quiz"><span class="ti">✍️</span><span>בחינה</span></a>
+    <a href="#/stats" data-tab="stats"><span class="ti">📈</span><span>מעקב</span></a>
+  </nav>
+</div>
+<div id="toast" role="status" aria-live="polite"></div>
+<audio id="player" preload="auto" playsinline></audio>
+<audio id="fx" preload="auto" playsinline></audio>
+<noscript><p style="padding:2rem">האפליקציה דורשת JavaScript.</p></noscript>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

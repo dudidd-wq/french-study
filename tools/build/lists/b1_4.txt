@@ -1,0 +1,105 @@
+l'adolescent, l'adolescente|a|n|נער / נערה (מתבגר)|B1|
+la jeunesse|f|n|נעורים / הצעירים|B1|
+l'enfance|f|n|ילדות|B1|
+la vieillesse|f|n|זִקנה (גיל מבוגר)|B1|
+l'adulte|a|n|מבוגר / מבוגרת|B1|
+le couple|m|n|זוג|B1|
+le célibataire|a|n|רווק / רווקה|B1|
+le mode de vie|m|n|אורח חיים|B1|
+le quotidien|m|n|חיי היומיום|B1|
+l'habitude|f|n|הרגל|B1|
+le stress|m|n|לחץ (סטרס)|B1|
+le bénévolat|m|n|התנדבות|B1|
+le bénévole|a|n|מתנדב / מתנדבת|B1|
+l'association|f|n|עמותה / ארגון|B1|
+la solidarité|f|n|סולידריות / ערבות הדדית|B1|
+le service militaire|m|n|שירות צבאי|B1|
+le stage|m|n|התמחות / סדנה|B1|
+la formation|f|n|הכשרה|B1|
+le diplôme|m|n|תעודה / תואר|B1|
+la carrière|f|n|קריירה|B1|
+l'entretien|m|n|ראיון (עבודה) / תחזוקה|B1|
+le CV|m|n|קורות חיים|B1|
+la réussite|f|n|הצלחה|B1|
+l'échec|m|n|כישלון|B1|
+l'effort|m|n|מאמץ|B1|
+le résultat|m|n|תוצאה|B1|
+le niveau|m|n|רמה|B1|
+le concours|m|n|תחרות / מבחן קבלה|B1|
+la règle|f|n|כלל / סרגל|B1|
+la permission|f|n|רשות / היתר|B1|
+le conseil|m|n|עצה / מועצה|B1|
+l'occasion|f|n|הזדמנות|B1|
+le hasard|m|n|מקרה / מזל|B1|h נשאפת: le hasard; par hasard = במקרה
+le risque|m|n|סיכון|B1|
+la peine|f|n|צער / עונש / מאמץ|B1|ce n'est pas la peine = לא כדאי
+le malheur|m|n|אסון / צרה / אומללות|B1|
+le deuil|m|n|אבל|B1|
+la souffrance|f|n|סבל|B1|
+la blessure|f|n|פציעה / פצע|B1|
+le soin|m|n|טיפול / תשומת לב|B1|
+le corps humain|m|n|גוף האדם|B1|
+le cerveau|m|n|מוח|B1|
+le sang|m|n|דם|B1|
+le souffle|m|n|נשימה / משב|B1|
+le régime|m|n|דיאטה / משטר|B1|
+l'alimentation|f|n|תזונה|B1|
+le goût|m|n|טעם|B1|
+l'odeur|f|n|ריח|B1|
+le parfum|m|n|בושם / ניחוח|B1|
+le bien-être|m|n|רווחה / הרגשה טובה|B1|
+l'ordinateur portable|m|n|מחשב נייד|B1|
+le mot de passe|m|n|סיסמה|B1|
+le lien internet|m|n|קישור (לינק)|B1|
+le téléchargement|m|n|הורדה (קובץ)|B1|
+télécharger|n|v|להוריד (קובץ)|B1|
+la vidéo|f|n|סרטון|B1|
+l'écran tactile|m|n|מסך מגע|B1|
+la capture d'écran|f|n|צילום מסך|B1|
+la publication|f|n|פרסום / פוסט|B1|
+publier|n|v|לפרסם|B1|
+partager une photo|n|phr|לשתף תמונה|B1|
+l'abonné, l'abonnée|a|n|מנוי / עוקב|B1|
+la vie privée|f|n|פרטיות|B1|
+le harcèlement|m|n|הטרדה / בריונות|B1|h נשאפת: le harcèlement
+la dépendance|f|n|התמכרות / תלות|B1|
+le logement|m|n|דיור / מגורים|B1|
+le loyer|m|n|שכר דירה|B1|
+le propriétaire|a|n|בעל בית / בעלים|B1|
+la banlieue|f|n|פרבר|B1|
+la circulation|f|n|תנועה (כבישים) / זרימה|B1|
+les transports en commun|m|n|תחבורה ציבורית|B1|
+l'embouteillage|m|n|פקק תנועה|B1|
+le vol|m|n|טיסה / גניבה|B1|
+la douane|f|n|מכס|B1|
+le pays d'origine|m|n|ארץ מוצא|B1|
+l'immigration|f|n|הגירה|B1|
+l'immigré, l'immigrée|a|n|מהגר / מהגרת|B1|
+la nationalité|f|n|אזרחות / לאום|B1|
+la francophonie|f|n|הפרנקופוניה (העולם דובר הצרפתית)|B1|
+le francophone|a|n|דובר צרפתית|B1|
+la colonie|f|n|מושבה|B1|
+la révolution|f|n|מהפכה|B1|
+la Révolution française|f|n|המהפכה הצרפתית (1789)|B1|
+le siècle des Lumières|m|n|תקופת הנאורות (המאה ה־18)|B1|
+le Moyen Âge|m|n|ימי הביניים|B1|
+la Renaissance|f|n|הרנסנס|B1|
+la Seconde Guerre mondiale|f|n|מלחמת העולם השנייה|B1|
+la Résistance|f|n|המחתרת הצרפתית (ההתנגדות)|B1|
+l'Occupation|f|n|הכיבוש (הגרמני של צרפת)|B1|
+le 14 juillet|m|n|יום הבסטיליה (החג הלאומי)|B1|
+la tour Eiffel|f|n|מגדל אייפל|B1|
+le Louvre|m|n|הלובר (מוזיאון)|B1|
+la Seine|f|n|הסן (הנהר בפריז)|B1|
+le drapeau|m|n|דגל|B1|
+l'hymne national|m|n|המנון לאומי|B1|
+la Marseillaise|f|n|המרסייז (המנון צרפת)|B1|
+la laïcité|f|n|חילוניות (הפרדת דת ומדינה)|B1|
+la gastronomie|f|n|גסטרונומיה (אמנות האוכל)|B1|
+le vin|m|n|יין|B1|
+la crêpe|f|n|קרפ|B1|
+le fromage de chèvre|m|n|גבינת עיזים|B1|
+le symbole|m|n|סמל|B1|
+le monument|m|n|אנדרטה / מבנה היסטורי|B1|
+la statue|f|n|פסל|B1|
+le roi Soleil|m|n|מלך השמש (לואי ה־14)|B1|

@@ -1,0 +1,137 @@
+la société|f|n|חברה (ציבור) / חברה עסקית|B1|
+le gouvernement|m|n|ממשלה|B1|
+la politique|f|n|פוליטיקה / מדיניות|B1|
+l'État|m|n|מדינה (שלטון)|B1|
+la loi|f|n|חוק|B1|
+le droit|m|n|זכות / משפטים|B1|
+le devoir|m|n|חובה / שיעור בית|B1|
+la liberté|f|n|חירות / חופש|B1|
+l'égalité|f|n|שוויון|B1|
+la fraternité|f|n|אחווה|B1|
+la paix|f|n|שלום|B1|
+la guerre|f|n|מלחמה|B1|
+l'armée|f|n|צבא|B1|
+le soldat, la soldate|a|n|חייל / חיילת|B1|
+le pouvoir|m|n|כוח / שלטון|B1|
+la force|f|n|כוח / עוצמה|B1|
+le citoyen, la citoyenne|a|n|אזרח / אזרחית|B1|
+l'élection|f|n|בחירות|B1|
+voter|n|v|להצביע|B1|
+la république|f|n|רפובליקה|B1|
+le président, la présidente|a|n|נשיא / נשיאה|B1|
+la démocratie|f|n|דמוקרטיה|B1|
+la justice|f|n|צדק / מערכת המשפט|B1|
+le juge|a|n|שופט / שופטת|B1|
+le crime|m|n|פשע|B1|
+la prison|f|n|כלא|B1|
+la violence|f|n|אלימות|B1|
+le conflit|m|n|סכסוך|B1|
+la manifestation|f|n|הפגנה / אירוע|B1|
+la grève|f|n|שביתה|B1|
+l'économie|f|n|כלכלה|B1|
+le chômage|m|n|אבטלה|B1|
+la crise|f|n|משבר|B1|
+le progrès|m|n|קידמה / התקדמות|B1|
+la technologie|f|n|טכנולוגיה|B1|
+la science|f|n|מדע|B1|
+la recherche|f|n|מחקר / חיפוש|B1|
+la découverte|f|n|תגלית / גילוי|B1|
+l'invention|f|n|המצאה|B1|
+l'environnement|m|n|סביבה (איכות הסביבה)|B1|
+la pollution|f|n|זיהום|B1|
+le réchauffement climatique|m|n|התחממות כדור הארץ|B1|
+le recyclage|m|n|מיחזור|B1|
+les déchets|m|n|פסולת / אשפה|B1|
+l'énergie|f|n|אנרגיה|B1|
+protéger|n|v|להגן|B1|
+la planète|f|n|כוכב לכת|B1|
+le désert|m|n|מדבר|B1|
+la côte|f|n|חוף / צלע|B1|
+le paysage|m|n|נוף|B1|
+la région|f|n|אזור / מחוז|B1|
+la frontière|f|n|גבול|B1|
+le monde entier|m|n|העולם כולו|B1|
+la population|f|n|אוכלוסייה|B1|
+l'habitant, l'habitante|a|n|תושב / תושבת|B1|
+la culture|f|n|תרבות|B1|
+la civilisation|f|n|תרבות / ציוויליזציה|B1|
+la tradition|f|n|מסורת|B1|
+la religion|f|n|דת|B1|
+la croyance|f|n|אמונה|B1|
+la coutume|f|n|מנהג|B1|
+le patrimoine|m|n|מורשת|B1|
+l'art|m|n|אמנות|B1|
+l'artiste|a|n|אמן / אמנית|B1|
+le peintre|a|n|צייר / ציירת|B1|
+l'œuvre|f|n|יצירה|B1|
+l'exposition|f|n|תערוכה|B1|
+le chef-d'œuvre|m|n|יצירת מופת|B1|
+la littérature|f|n|ספרות|B1|
+l'écrivain, l'écrivaine|a|n|סופר / סופרת|B1|
+l'auteur, l'autrice|a|n|מחבר / מחברת|B1|
+le poète, la poétesse|a|n|משורר / משוררת|B1|
+le poème|m|n|שיר (שירה)|B1|
+le conte|m|n|מעשייה / אגדה|B1|
+la fable|f|n|משל|B1|
+le personnage|m|n|דמות|B1|
+le héros, l'héroïne|a|n|גיבור / גיבורה|B1|h נשאפת: le héros
+le lecteur, la lectrice|a|n|קורא / קוראת|B1|
+le titre|m|n|כותרת / שם (יצירה)|B1|
+le chapitre|m|n|פרק|B1|
+le récit|m|n|סיפור / תיאור|B1|
+le dialogue|m|n|דו־שיח|B1|
+la scène|f|n|במה / סצנה / תמונה (במחזה)|B1|
+la pièce de théâtre|f|n|מחזה|B1|
+le public|m|n|קהל|B1|
+la presse|f|n|עיתונות|B1|
+le journaliste, la journaliste|a|n|עיתונאי / עיתונאית|B1|
+l'information|f|n|מידע / חדשות|B1|
+les nouvelles|f|n|חדשות|B1|
+la publicité|f|n|פרסומת|B1|
+l'opinion|f|n|דעה|B1|
+le point de vue|m|n|נקודת מבט|B1|
+l'avis|m|n|דעה|B1|à mon avis = לדעתי
+le débat|m|n|דיון / ויכוח|B1|
+l'argument|m|n|טיעון|B1|
+la preuve|f|n|הוכחה|B1|
+le doute|m|n|ספק|B1|
+le choix|m|n|בחירה|B1|
+la décision|f|n|החלטה|B1|
+le but|m|n|מטרה / שער (בכדורגל)|B1|
+le projet|m|n|תוכנית / פרויקט|B1|
+l'avenir|m|n|עתיד|B1|
+le passé|m|n|עבר|B1|
+le présent|m|n|הווה / מתנה|B1|
+l'époque|f|n|תקופה|B1|
+l'événement|m|n|אירוע|B1|
+la situation|f|n|מצב|B1|
+le changement|m|n|שינוי|B1|
+la différence|f|n|הבדל|B1|
+le rapport|m|n|קשר / דו"ח|B1|
+la relation|f|n|יחסים / קשר|B1|
+le lien|m|n|קשר / קישור|B1|
+le comportement|m|n|התנהגות|B1|
+le caractère|m|n|אופי|B1|
+la personnalité|f|n|אישיות|B1|
+la qualité|f|n|תכונה טובה / איכות|B1|
+le défaut|m|n|חיסרון / פגם|B1|
+l'expérience|f|n|ניסיון / ניסוי|B1|
+la connaissance|f|n|ידע / היכרות|B1|
+la mémoire|f|n|זיכרון (יכולת)|B1|
+l'esprit|m|n|רוח / שכל / נפש|B1|
+l'âme|f|n|נשמה|B1|
+la pensée|f|n|מחשבה|B1|
+la volonté|f|n|רצון (כוח רצון)|B1|
+le courage|m|n|אומץ|B1|
+la confiance|f|n|אמון / ביטחון|B1|
+la patience|f|n|סבלנות|B1|
+la honte|f|n|בושה|B1|h נשאפת: la honte
+la jalousie|f|n|קנאה|B1|
+la tristesse|f|n|עצב|B1|
+la solitude|f|n|בדידות|B1|
+la tendresse|f|n|רוך / עדינות|B1|
+la haine|f|n|שנאה|B1|h נשאפת: la haine
+le respect|m|n|כבוד|B1|
+la responsabilité|f|n|אחריות|B1|
+la morale|f|n|מוסר / מוסר השכל|B1|
+la valeur|f|n|ערך|B1|

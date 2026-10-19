@@ -1,0 +1,141 @@
+devenir|n|v|להפוך ל... / להיעשות|A2|
+revenir|n|v|לחזור (לבוא שוב)|A2|
+retourner|n|v|לחזור / להפוך|A2|
+tenir|n|v|להחזיק|A2|
+recevoir|n|v|לקבל|A2|
+envoyer|n|v|לשלוח|A2|
+montrer|n|v|להראות|A2|
+expliquer|n|v|להסביר|A2|
+raconter|n|v|לספר (סיפור)|A2|
+décrire|n|v|לתאר|A2|
+oublier|n|v|לשכוח|A2|
+se souvenir de|n|v|לזכור|A2|
+rappeler|n|v|להזכיר / להתקשר שוב|A2|
+essayer|n|v|לנסות / למדוד (בגד)|A2|
+réussir|n|v|להצליח|A2|
+choisir|n|v|לבחור|A2|
+décider|n|v|להחליט|A2|
+changer|n|v|לשנות / להשתנות|A2|
+continuer|n|v|להמשיך|A2|
+arrêter|n|v|לעצור / להפסיק|A2|
+s'arrêter|n|v|להיעצר|A2|
+quitter|n|v|לעזוב (מקום / אדם)|A2|
+passer|n|v|לעבור / לבלות (זמן)|A2|
+monter|n|v|לעלות|A2|
+descendre|n|v|לרדת|A2|
+tomber|n|v|ליפול|A2|
+traverser|n|v|לחצות|A2|
+tourner|n|v|לפנות / לסובב|A2|
+conduire|n|v|לנהוג|A2|
+préparer|n|v|להכין|A2|
+ranger|n|v|לסדר|A2|
+nettoyer|n|v|לנקות|A2|
+utiliser|n|v|להשתמש|A2|
+vendre|n|v|למכור|A2|
+louer|n|v|לשכור / להשכיר|A2|
+coûter|n|v|לעלות (מחיר)|A2|
+gagner|n|v|לנצח / להרוויח|A2|
+perdre|n|v|להפסיד / לאבד|A2|
+inviter|n|v|להזמין (אדם)|A2|
+rencontrer|n|v|לפגוש|A2|
+retrouver|n|v|למצוא שוב / להיפגש|A2|
+téléphoner|n|v|לטלפן|A2|
+discuter|n|v|לשוחח / לדון|A2|
+rire|n|v|לצחוק|A2|
+sourire|n|v|לחייך|A2|
+pleurer|n|v|לבכות|A2|
+crier|n|v|לצעוק|A2|
+s'amuser|n|v|ליהנות / להשתעשע|A2|
+s'ennuyer|n|v|להשתעמם|A2|
+se reposer|n|v|לנוח|A2|
+se promener|n|v|לטייל (להסתובב)|A2|
+s'habiller|n|v|להתלבש|A2|
+se laver|n|v|להתרחץ|A2|
+se dépêcher|n|v|למהר|A2|
+se réveiller|n|v|להתעורר|A2|
+s'asseoir|n|v|לשבת (להתיישב)|A2|
+se sentir|n|v|להרגיש (את עצמו)|A2|
+s'occuper de|n|v|לטפל ב... / לדאוג ל...|A2|
+s'intéresser à|n|v|להתעניין ב...|A2|
+se marier|n|v|להתחתן|A2|
+espérer|n|v|לקוות|A2|
+sembler|n|v|להיראות (נדמה)|A2|
+paraître|n|v|להיראות / להתפרסם|A2|
+vivre|n|v|לחיות|A2|
+mourir|n|v|למות|A2|
+naître|n|v|להיוולד|A2|
+grandir|n|v|לגדול|A2|
+dessiner|n|v|לצייר (בעיפרון)|A2|
+peindre|n|v|לצבוע / לצייר (בצבע)|A2|
+construire|n|v|לבנות|A2|
+fumer|n|v|לעשן|A2|
+garder|n|v|לשמור|A2|
+apporter|n|v|להביא|A2|
+emporter|n|v|לקחת איתו|A2|
+offrir|n|v|להעניק / לתת מתנה|A2|
+partager|n|v|לחלוק / לשתף|A2|
+compter|n|v|לספור / לסמוך על|A2|
+répéter|n|v|לחזור על...|A2|
+préférer|n|v|להעדיף|A2|
+plaire|n|v|למצוא חן|A2|ça me plaît = זה מוצא חן בעיניי
+servir|n|v|להגיש / לשמש|A2|
+suivre|n|v|לעקוב / ללכת אחרי|A2|
+sentir|n|v|להריח / להרגיש|A2|
+toucher|n|v|לגעת|A2|
+jeter|n|v|לזרוק|A2|
+remplir|n|v|למלא|A2|
+réfléchir|n|v|לחשוב / לשקול|A2|
+riche|n|adj|עשיר|A2|
+pauvre|n|adj|עני / מסכן|A2|
+propre|n|adj|נקי / עצמי|A2|
+sale|n|adj|מלוכלך|A2|
+plein, pleine|n|adj|מלא|A2|
+vide|n|adj|ריק|A2|
+lourd, lourde|n|adj|כבד|A2|
+léger, légère|n|adj|קל (משקל)|A2|
+fort, forte|n|adj|חזק|A2|
+faible|n|adj|חלש|A2|
+rapide|n|adj|מהיר|A2|
+lent, lente|n|adj|איטי|A2|
+calme|n|adj|שקט / רגוע|A2|
+bruyant, bruyante|n|adj|רועש|A2|
+drôle|n|adj|מצחיק / מוזר|A2|
+sérieux, sérieuse|n|adj|רציני|A2|
+timide|n|adj|ביישן|A2|
+méchant, méchante|n|adj|רשע / רע לב|A2|
+sage|n|adj|חכם / ממושמע|A2|
+intelligent, intelligente|n|adj|חכם / נבון|A2|
+bête|n|adj|טיפש|A2|
+fier, fière|n|adj|גאה|A2|
+amoureux, amoureuse|n|adj|מאוהב|A2|
+inquiet, inquiète|n|adj|מודאג|A2|
+célèbre|n|adj|מפורסם|A2|
+connu, connue|n|adj|ידוע|A2|
+différent, différente|n|adj|שונה|A2|
+pareil, pareille|n|adj|זהה / דומה|A2|
+libre|n|adj|חופשי / פנוי|A2|
+occupé, occupée|n|adj|עסוק / תפוס|A2|
+ouvert, ouverte|n|adj|פתוח|A2|
+fermé, fermée|n|adj|סגור|A2|
+doux, douce|n|adj|רך / מתוק / עדין|A2|
+dur, dure|n|adj|קשה (קשיח)|A2|
+haut, haute|n|adj|גבוה|A2|
+bas, basse|n|adj|נמוך|A2|
+large|n|adj|רחב|A2|
+étroit, étroite|n|adj|צר|A2|
+moderne|n|adj|מודרני|A2|
+ancien, ancienne|n|adj|עתיק / לשעבר|A2|
+prochain, prochaine|n|adj|הבא|A2|
+possible|n|adj|אפשרי|A2|
+impossible|n|adj|בלתי אפשרי|A2|
+nécessaire|n|adj|הכרחי / נחוץ|A2|
+vrai, vraie|n|adj|אמיתי / נכון|A2|
+faux, fausse|n|adj|לא נכון / מזויף|A2|
+meilleur, meilleure|n|adj|טוב יותר / הכי טוב|A2|
+pire|n|adj|גרוע יותר|A2|
+délicieux, délicieuse|n|adj|טעים מאוד|A2|
+magnifique|n|adj|נהדר / מרהיב|A2|
+génial, géniale|n|adj|גאוני / מגניב|A2|
+français, française|n|adj|צרפתי / צרפתייה|A2|
+israélien, israélienne|n|adj|ישראלי / ישראלית|A2|
+étranger, étrangère|n|adj|זר / מחו"ל|A2|à l'étranger = בחו"ל

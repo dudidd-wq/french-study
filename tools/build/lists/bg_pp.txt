@@ -1,0 +1,80 @@
+le Petit Prince|m|n|הנסיך הקטן|pp|Antoine de Saint-Exupéry, 1943
+la rose|f|n|ורד|pp|« la rose et le Petit Prince »
+la fleur|f|n|פרח|pp|
+le pétale|m|n|עלה כותרת (של פרח)|pp|« une seule rangée de pétales »
+la rangée|f|n|שורה (טור)|pp|
+tenir de la place|n|phr|לתפוס מקום|pp|« qui ne tenaient point de place »
+déranger|n|v|להפריע|pp|« elles ne dérangeaient personne »
+s'éteindre|n|v|לכבות / לדעוך|pp|« elles s'éteignaient le soir »
+la graine|f|n|זרע|pp|« une graine apportée d'on ne sait où »
+germer|n|v|לנבוט|pp|« elle avait germé un jour »
+la pousse|f|n|נבט / ניצן|pp|
+la brindille|f|n|זרד (ענף דק)|pp|« cette brindille »
+surveiller|n|v|להשגיח / לפקח|pp|« le petit prince avait surveillé de très près »
+l'espèce|f|n|מין (סוג)|pp|« une nouvelle espèce de baobab »
+le baobab|m|n|באובב (עץ ענק)|pp|
+l'arbuste|m|n|שיח|pp|« l'arbuste cessa vite de croître »
+croître|n|v|לגדול / לצמוח (ספרותי)|pp|
+cesser de|n|v|לחדול מ... / להפסיק|pp|
+le bouton|m|n|ניצן / כפתור|pp|« un bouton énorme »
+l'apparition|f|n|הופעה (פלאית)|pp|« une apparition miraculeuse »
+miraculeux, miraculeuse|n|adj|פלאי / נִסִּי|pp|
+à l'abri de|n|prep|מוגן מ... / במחסה|pp|
+avec soin|n|phr|בקפידה|pp|« elle choisissait avec soin ses couleurs »
+ajuster|n|v|לסדר / להתאים|pp|« elle ajustait un à un ses pétales »
+fripé, fripée|n|adj|מקומט|pp|« sortir toute fripée comme les coquelicots »
+le coquelicot|m|n|פרג|pp|
+le rayonnement|m|n|זוהר / קרינה|pp|« dans le plein rayonnement de sa beauté »
+la beauté|f|n|יופי|pp|
+coquet, coquette|n|adj|גנדרנית / מתגנדרת|pp|« Oh! oui. Elle était coquette! »
+la toilette|f|n|התגנדרות / לבוש / שירותים|pp|« sa toilette mystérieuse »
+le lever du soleil|m|n|זריחה|pp|« un matin, justement à l'heure du lever du soleil »
+se montrer|n|v|להראות את עצמו / להופיע|pp|
+bâiller|n|v|לפהק|pp|« elle dit en bâillant »
+décoiffé, décoiffée|n|adj|פרוע שיער / לא מסורק|pp|« je suis encore toute décoiffée »
+contenir|n|v|להכיל / לרסן|pp|« ne put contenir son admiration »
+l'admiration|f|n|הערצה|pp|
+émouvant, émouvante|n|adj|מרגש|pp|
+modeste|n|adj|צנוע|pp|« elle n'était pas trop modeste »
+confus, confuse|n|adj|נבוך / מבולבל|pp|« tout confus »
+l'arrosoir|m|n|מזלף / משפך השקיה|pp|« ayant été chercher un arrosoir d'eau fraîche »
+frais, fraîche|n|adj|טרי / קריר|pp|
+servir|n|v|להגיש / לשרת|pp|« il avait servi la fleur »
+tourmenter|n|v|לייסר / להציק|pp|« elle l'avait bientôt tourmenté »
+la vanité|f|n|יוהרה / גאוותנות|pp|« par sa vanité un peu ombrageuse »
+ombrageux, ombrageuse|n|adj|רגזן / חשדן ונעלב בקלות|pp|
+l'épine|f|n|קוץ|pp|« ses quatre épines »
+la griffe|f|n|טופר|pp|« Ils peuvent venir, les tigres, avec leurs griffes! »
+l'herbe|f|n|עשב / דשא|pp|« les tigres ne mangent pas l'herbe »
+avoir horreur de|n|phr|לתעב / לסלוד מ...|pp|« j'ai horreur des courants d'air »
+le courant d'air|m|n|רוח פרצים (משב קר)|pp|
+le paravent|m|n|פרגוד (מחיצה נגד רוח)|pp|« Vous n'auriez pas un paravent? »
+la plante|f|n|צמח|pp|« Ce n'est pas de chance, pour une plante »
+le globe|m|n|פעמון זכוכית / כדור|pp|« vous me mettrez sous globe »
+mal installé, mal installée|n|adj|מסודר לא טוב (לא נוח)|pp|
+interrompre|n|v|לקטוע|pp|« Elle s'était interrompue »
+tousser|n|v|להשתעל|pp|« elle avait toussé deux ou trois fois »
+mettre dans son tort|n|phr|להעמיד מישהו באשמה|pp|« pour le mettre dans son tort »
+le remords|m|n|חרטה / ייסורי מצפון|pp|« pour lui infliger quand même des remords »
+naïf, naïve|n|adj|תמים|pp|« un mensonge aussi naïf »
+humilié, humiliée|n|adj|מושפל|pp|« humiliée de s'être laissé surprendre »
+la bonne volonté|f|n|רצון טוב|pp|« malgré la bonne volonté de son amour »
+douter de|n|v|לפקפק ב...|pp|« il avait vite douté d'elle »
+prendre au sérieux|n|phr|להתייחס ברצינות|pp|« Il avait pris au sérieux des mots sans importance »
+sans importance|n|phr|חסר חשיבות|pp|
+malheureux, malheureuse|n|adj|אומלל / לא מאושר|pp|« et était devenu très malheureux »
+se confier|n|v|להתוודות / לספר בסוד|pp|« me confia-t-il un jour »
+juger|n|v|לשפוט|pp|« Il fallait la juger sur les actes et non sur les mots »
+l'acte|m|n|מעשה / מערכה (במחזה)|pp|
+embaumer|n|v|למלא בריח נעים / לבשם|pp|« Elle m'embaumait et m'éclairait »
+éclairer|n|v|להאיר|pp|
+s'enfuir|n|v|לברוח|pp|« Je n'aurais jamais dû m'enfuir! »
+deviner|n|v|לנחש / לחוש|pp|« J'aurais dû deviner sa tendresse »
+la ruse|f|n|תחבולה / ערמומיות|pp|« derrière ses pauvres ruses »
+contradictoire|n|adj|סותר / מנוגד|pp|« Les fleurs sont si contradictoires! »
+savoir aimer|n|phr|לדעת לאהוב|pp|« j'étais trop jeune pour savoir l'aimer »
+l'astéroïde|m|n|אסטרואיד|pp|astéroïde B 612
+la planète|f|n|כוכב לכת|pp|
+l'aviateur|m|n|טייס|pp|le narrateur du Petit Prince est aviateur
+apprivoiser|n|v|לאלף / לביית (ליצור קשר)|pp|« apprivoiser » = créer des liens (ch. 21)
+le lien|m|n|קשר|pp|

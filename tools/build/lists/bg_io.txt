@@ -1,0 +1,50 @@
+Eugène Ionesco|m|n|אז'ן יונסקו (1909–1994, מחזאי)|io|Rhinocéros, 1959
+le rhinocéros|m|n|קרנף|io|
+la rhinocérite|f|n|"קרנפת" (מגפת ההפיכה לקרנף)|io|
+Bérenger|m|n|בֶּרֶנְזֶ'ה (הגיבור שמתנגד)|io|
+Jean|m|n|ז'אן (חברו של ברנז'ה שהופך לקרנף)|io|
+l'humanisme|m|n|הומניזם|io|« L'humanisme est périmé ! »
+périmé, périmée|n|adj|פג תוקף / מיושן|io|
+le sentimental, la sentimentale|a|n|רגשן / רגשנית|io|
+dépasser|n|v|לעבור / לחרוג מעבר|io|« Il faut dépasser la morale »
+la nature|f|n|טבע|io|« La nature a ses lois »
+la loi de la jungle|f|n|חוק הג'ונגל|io|
+primordial, primordiale|n|adj|קדמוני / יסודי|io|« l'intégrité primordiale »
+l'intégrité|f|n|שלמות / יושרה|io|
+la métamorphose|f|n|גלגול / שינוי צורה|io|
+se transformer|n|v|להשתנות / להפוך ל...|io|
+verdir|n|v|להוריק (להפוך לירוק)|io|
+la bosse|f|n|גבשושית / בליטה|io|
+le front|m|n|מצח / חזית|io|
+la corne|f|n|קרן (של חיה)|io|
+rauque|n|adj|צרוד / מחוספס (קול)|io|
+enrhumé, enrhumée|n|adj|מצונן|io|
+barrir|n|v|להשמיע קול תקיעה (פיל / קרנף)|io|
+le barrissement|m|n|קול תקיעה של פיל / קרנף|io|
+piétiner|n|v|לרמוס|io|
+écraser|n|v|למחוץ / לדרוס|io|
+foncer|n|v|להסתער / לדהור|io|
+furieux, furieuse|n|adj|זועם|io|
+le troupeau|m|n|עדר|io|
+la contagion|f|n|הדבקה (מגפה)|io|
+le conformisme|m|n|קונפורמיזם (ללכת אחרי העדר)|io|
+résister|n|v|להתנגד / לעמוד בפני|io|
+capituler|n|v|להיכנע|io|« Je ne capitule pas ! » (fin de la pièce)
+l'humanité|f|n|האנושות / אנושיות|io|
+l'individualité|f|n|ייחודיות אישית|io|
+la conscience|f|n|מצפון / תודעה|io|
+le totalitarisme|m|n|טוטליטריות|io|
+l'absurde|m|n|האבסורד|io|
+le théâtre de l'absurde|m|n|תיאטרון האבסורד|io|
+le dramaturge|a|n|מחזאי / מחזאית|io|
+la pièce|f|n|מחזה / חדר / מטבע|io|
+le tableau|m|n|תמונה (במחזה) / ציור|io|acte II, tableau 2
+la didascalie|f|n|הוראת במה|io|
+la tirade|f|n|נאום ארוך (במחזה)|io|
+le monologue|m|n|מונולוג|io|
+la valeur morale|f|n|ערך מוסרי|io|
+remplacer|n|v|להחליף|io|
+misanthrope|n|adj|שונא אדם (מיזנתרופ)|io|
+haïr|n|v|לשנוא|io|h נשאפת: je hais
+irremplaçable|n|adj|שאין לו תחליף|io|
+la salle de bains|f|n|חדר רחצה|io|Jean se transforme dans sa salle de bains
